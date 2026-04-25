@@ -117,3 +117,13 @@
 - [YT-06] Trade with Pat | 12:19 | [The ONLY Day Trading Strategy I'll use ALL 2026 (Backtested 1000 Times)](https://www.youtube.com/watch?v=E3McKlAp3qk)
 - [YT-06] Trade with Pat | 21:11 | [The 1 Price Action Trading Strategy that made it ALL CLICK (Beginner Friendly)](https://www.youtube.com/watch?v=NWHFPAXUt8Q)
 - [YT-06] Trade with Pat | 15:15 | [The EASIEST Scalping Strategy I Trade DAILY](https://www.youtube.com/watch?v=j5v9OlQ_gsY)
+## 처리 이력
+
+### 2026-04-25 배치 추가 처리
+- [processed] YT-06 Trade with Pat — The Only Day Trading Strategy I’d Use If I Had to Start Over — `strategies/daytrading/002_100ema-break-retest-supply-demand-scalp.md`
+- [processed] YT-06 Trade with Pat — The ONLY Day Trading Strategy I'll use ALL 2026 (Backtested 1000 Times) — `strategies/daytrading/003_displacement-orb-session-reversal.md`
+- [processed] YT-06 Trade with Pat — My BEST 5 Minute Scalping Strategy (330 Backtests) — `strategies/daytrading/004_amd-session-reversal-5m-three-entry-scalp.md`
+- [processed] YT-05 Ross Cameron - Warrior Trading — Day Trading the Top 2 Leading % Gainers in the Market — `strategies/daytrading/005_leading-gainer-vwap-reclaim-high-break.md`
+- [processed] YT-05 Ross Cameron - Warrior Trading — The Micro Pullback Trading Strategy (Small Account Challenge) — `strategies/daytrading/006_micro-pullback-low-float-news-momentum.md`
+- [failed] YT-06 Trade with Pat — The Only 1 Minute ORB Scalping Strategy That I TRUST — inventory URL의 video id가 10자로 기록되어 transcript 수집 불가. 원 URL 재확인 필요.
+

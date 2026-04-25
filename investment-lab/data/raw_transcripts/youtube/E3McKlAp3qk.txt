@@ -1,0 +1,322 @@
+[00:00] I pray for many things. I prayed for
+[00:03] this $5 mansion. I prayed for a family
+[00:07] that I love and a day trading strategy
+[00:09] that wins trades. All these things are
+[00:11] similar in that they require constant
+[00:13] attention, but when I put the work in
+[00:16] and follow the two steps of the
+[00:17] strategy, I'm rewarded. So today, I'm
+[00:20] going to teach you the one day trading
+[00:22] strategy I'll use for the entire year
+[00:25] with live trade examples. Now, I never
+[00:28] promise future trading results or $5
+[00:31] million mansions, but if this helps you
+[00:34] at all, please smash that like button,
+[00:36] subscribe to the channel, and let's dive
+[00:39] in.
+[00:41] I live trade this strategy every day and
+[00:43] I even back tested it 1,000 times to a
+[00:46] win rate of 79.45%.
+[00:49] My community trades the exact same
+[00:51] strategy manually and using my trading
+[00:54] robot, and here is some of their results
+[00:56] from the past week including some prop
+[00:58] firm passes. And this really all comes
+[01:00] down to two steps. Step one,
+[01:03] displacement orbs, and step two, session
+[01:06] analysis, which is how I avoid dumb
+[01:08] losses. And every open range breakout
+[01:11] trader should already know this. But
+[01:13] let's start with step one. I'm trading
+[01:15] the New York session only looking at the
+[01:18] first 15-minute candle of the New York
+[01:20] Stock Exchange open. That candle goes
+[01:22] down, it goes up, and then it's done.
+[01:25] Then all I'm doing is marking out that
+[01:26] candle high, marking out that candle
+[01:28] low, and this is the trading range for
+[01:31] my trading session. To get the time
+[01:34] right, come to the bottom right here.
+[01:35] Make sure you're on New York time. Then
+[01:37] I'm changing time frames to the
+[01:39] five-minute time frame, and I'm looking
+[01:41] for an impulsive move out the top or the
+[01:43] bottom of the range with some big
+[01:45] candles that create some actual
+[01:47] displacement in the market. You could
+[01:49] see we're getting that push up right
+[01:51] here, and I want to see a candle
+[01:53] closure. You could see the candle closes
+[01:55] right here. If a candle just wicks out
+[01:58] and doesn't close, it doesn't count. And
+[02:00] if the move doesn't have these big
+[02:02] strong candles like this, it doesn't
+[02:04] count because it's not going to create
+[02:06] the displacement we need. Now, in that
+[02:08] aggressive push up, I want to see the
+[02:09] creation of a level of demand or even a
+[02:12] fair value gap because those are my
+[02:15] entry models. I'll show you the fair
+[02:16] value gap after. And this makes a
+[02:18] displacement orb. So in order to have a
+[02:21] valid demand, we've got one, two, three,
+[02:23] four green candles in a row. You want to
+[02:25] have three or four big green candles in
+[02:27] a row. You want to see recent structure
+[02:29] get broken. See, this price took out
+[02:32] this high. Ideally, have a couple of
+[02:34] these fair value gaps, and I draw the
+[02:37] demand zone on the red candle here
+[02:39] before the big push up just like an
+[02:41] order block. At this point, I'm simply
+[02:43] waiting for price to come back to that
+[02:45] level of demand and give me some sort of
+[02:48] a reaction. Right here, we have two
+[02:50] wicks. It's respecting demand. That's a
+[02:52] good sign. But I really like it when
+[02:54] price prints an engulfing candle
+[02:56] pattern. So you could see this candle
+[02:59] right here is engulfed by this candle
+[03:02] right here. It has the bigger body.
+[03:04] We're not looking at the wicks. And so
+[03:06] when that candle closes with the
+[03:08] engulfing, that's where I'm going to
+[03:10] enter my trading position. Generally,
+[03:12] I'm putting my stop loss below the level
+[03:14] of demand, even if it's a big demand.
+[03:17] And then I've got to figure out my
+[03:18] target. You know, 1.5, 1.6. Try to get a
+[03:23] good risk-reward ratio. Now, just a note
+[03:26] before I play out the trade. You see
+[03:27] that bullish engulfing candle pattern
+[03:30] right there. This is rare. It doesn't
+[03:32] always happen. A lot of the time, I'm
+[03:34] just entering when I see the demand zone
+[03:36] holding. So if you're doing some back
+[03:38] testing, don't get frustrating if you
+[03:40] don't see this get printed every single
+[03:42] time. Now, let's play out the trading
+[03:44] position. You can see we got a good
+[03:46] reaction off of that level of demand.
+[03:48] Wicket into it one more time and then
+[03:50] price started to push up. As I expand
+[03:53] the trade right there, you could see we
+[03:55] keep getting green candles and do smash
+[03:58] that take profit efficiently. Now,
+[04:00] before I get into the second entry
+[04:02] model, comment anything below for your
+[04:04] chance to win one of five free slots to
+[04:07] my VIP room. Last week, I gave out six.
+[04:09] Now, let's get into that second example
+[04:12] and then I'll teach you how I avoid dumb
+[04:14] losses using session analysis along with
+[04:17] a live trade. So we're still in step one
+[04:20] here, but I'm going to show you the
+[04:21] second entry model, and I'm going to
+[04:22] introduce you to an indicator. So come
+[04:24] click on indicators right here. I want
+[04:26] you to type opening range, and you're
+[04:29] going to select breakouts with targets.
+[04:31] Then come up here to settings. Tick this
+[04:33] off. Make sure this is at UTC-5,
+[04:36] 9:30 to 9:45, and you'll see it's going
+[04:39] to mark out the range for you. So this
+[04:42] is our range for the day, and I'm
+[04:44] already on the five-minute time frame.
+[04:46] And then what do we want? We want that
+[04:48] big impulsive move. We want that candle
+[04:51] closure. And on this one, we have a
+[04:53] level of demand right here, but we also
+[04:55] have a fair value gap right here. So we
+[04:59] had that nice displacement right there,
+[05:01] and now I'm waiting for price to come
+[05:02] back to my level. It comes back to the
+[05:05] level. It looks like it's respecting
+[05:06] that fair value gap, right? So we're
+[05:08] just taking a look at that. And then
+[05:10] what do we get? The bullish engulfing
+[05:12] pattern gets printed right there. So at
+[05:15] this point, my level held. We're not
+[05:17] coming down to demand. I could get into
+[05:19] a long position right here. On a trade
+[05:22] like this, I'll have my stop loss around
+[05:24] the midline. You could put it below the
+[05:25] fair value gap. I'll have it around the
+[05:27] midline here. And on this one, I'm going
+[05:29] to target around 2%, maybe 2.2%,
+[05:34] something like this because the market
+[05:35] structure has been very, very strong. So
+[05:38] I'm expecting that push up. Let's go
+[05:40] ahead and play that trade out. See what
+[05:43] happens. Respected the fair value gap.
+[05:45] Smashed the take profit. Went even
+[05:46] higher than I expected. Very solid. But
+[05:49] in order to get a win rate anywhere
+[05:51] close to 79%,
+[05:53] this is where step two session analysis
+[05:56] is so important. Let me teach it to you
+[05:58] now. Now, the market moves in very
+[06:00] predictable ways depending on the time
+[06:02] of day. The Asian session ranges. The
+[06:06] London session pushes. And the New York
+[06:08] session reverses. And I'm always looking
+[06:11] for this exact same pattern every single
+[06:14] day to make sure that I'm placing my
+[06:16] trades in the right direction. Let's
+[06:19] break down why this happens. The Asian
+[06:21] session simply doesn't have a lot of
+[06:23] volume because there's no real market
+[06:25] makers trading within the Asian range.
+[06:27] But then we come into the London session
+[06:30] and the big players are starting to make
+[06:32] moves which creates our London session
+[06:35] push down. This is generally a swing in
+[06:38] one direction or the other. And then the
+[06:40] final session of the day, the New York
+[06:42] session where I do most of my trading.
+[06:45] This is where I see the best trading
+[06:46] opportunities. A ton of volume comes
+[06:49] into the markets and that's where we
+[06:51] frequently see this reversal. So if the
+[06:54] London session is bearish, I'm looking
+[06:56] for the New York session to be bullish.
+[06:58] Now, this doesn't happen every single
+[07:00] day, but it does give us an edge
+[07:02] especially as orb traders. Now, before I
+[07:05] take us into the chart examples, let me
+[07:08] explain why this really happens. It's
+[07:10] all about liquidity. You see right here
+[07:13] the Asian session is ranging creating
+[07:16] liquidity above and below this level. So
+[07:20] I expect price to be pulled above and
+[07:23] below this level as price attempts to
+[07:25] seek out and sweep this liquidity in the
+[07:28] markets. Now, in this case, you could
+[07:30] see the London session starts, sweeps
+[07:32] the Asian session high, and uses the
+[07:34] momentum for the London session push. It
+[07:37] then sweeps out the low and uses that
+[07:40] momentum for the New York reversal. And
+[07:43] I'm often using these levels for targets
+[07:46] as well. They're very simple targets. So
+[07:49] if we sweep the high, I could target
+[07:51] this level right here. And then if we
+[07:53] come and sweep the low, I could target
+[07:56] this level right here and start scaling
+[07:58] out of my positions. Now, I'm going to
+[08:00] make this even easier. Let's jump to the
+[08:02] charts. Now, I'm on the charts. I'm
+[08:04] doing this on the 15-minute time frame.
+[08:06] Let me show you with real examples. You
+[08:08] could see we have our Asian session
+[08:10] right here. That's our Asian session
+[08:12] range. Then price takes liquidity. We
+[08:14] get the London session push. Then we
+[08:17] sweep the Asia highs right here, and we
+[08:19] get the New York session reversal with a
+[08:21] fair value gap right there and an easy
+[08:24] trade right here. All right, let's move
+[08:27] to the next day, okay? Let's take a
+[08:29] look. What does the next day look like?
+[08:31] We have our Asian session range. Price
+[08:33] comes below in the London session,
+[08:35] right? We get that London session push
+[08:37] right there sweeping liquidity. Then we
+[08:39] get the New York session reversal. It
+[08:41] doesn't come to the top of the Asian
+[08:43] range because hey, that was a pretty big
+[08:45] move. It's not going to make a huge move
+[08:46] like that every single day. And I'm not
+[08:48] even cherry-picking. Let's just move to
+[08:49] the next day. What does it look like?
+[08:51] Let's take a look. We've got a bigger
+[08:52] Asian session range this time. We had a
+[08:54] pretty big move, but we do still get the
+[08:56] London session push coming into the New
+[08:58] York session. Sweep liquidity below this
+[09:01] level, and then we get the New York
+[09:03] session reversal. And the New York
+[09:05] session reversal does take liquidity out
+[09:07] at the top. So at this level right here,
+[09:10] we have again another obvious level of
+[09:13] entry. And do that with the orb, and
+[09:16] we're absolutely cooking, right? But
+[09:19] sometimes you don't get the reversal.
+[09:21] Let's take a look at this example right
+[09:23] here. Asian session range. Liquidity
+[09:25] gets taken out at the top in the London
+[09:27] session. We get the London session push,
+[09:30] and it also sweeps the liquidity out the
+[09:32] bottom of that Asian range. And in those
+[09:35] cases where London takes out the top and
+[09:37] the bottom, I frequently see
+[09:39] continuation. So instead of the New York
+[09:42] session reversal here, we got a little
+[09:44] bit of a pullback, and we had
+[09:45] continuation. Now, how do I combine step
+[09:48] one and step two? I'll show you in a
+[09:50] live orb trade example right now. We're
+[09:53] at the end here. Let's go through a live
+[09:55] trade. We have the Asian session range
+[09:58] right here. We get the London session
+[10:01] push. I'm on the 5-minute time frame
+[10:03] right now, and then I'm looking for the
+[10:05] New York session reversal. So, based on
+[10:09] this pattern, I'm looking for buys right
+[10:11] now. So, let's zoom in a little bit
+[10:13] right here and see what's going on.
+[10:15] Well, what do we have? We have the top
+[10:17] of the range and the bottom of the
+[10:19] range, right? Now, we're looking kind of
+[10:20] at that step one, the early part of the
+[10:23] lesson. And so, what are we looking for
+[10:25] from this range? Well, we're looking for
+[10:27] something like that. We're looking for
+[10:30] an impulsive move like this one,
+[10:33] creating a level of demand, right? The
+[10:35] red candle before the big push up, and
+[10:37] then I'm waiting for price to come back
+[10:39] to that level, right? What am I doing?
+[10:41] I'm waiting for price to come back to
+[10:43] that level. I've got to get myself into
+[10:45] a trade. Now, we didn't really get the
+[10:47] bullish engulfing right there, but our
+[10:49] level is clearly being respected, and
+[10:52] you're almost never going to have every
+[10:54] single one of these confluences line up.
+[10:56] So, as price breaks out of the demand,
+[10:59] that's something I'll use as well to get
+[11:02] into a trading position. I'll put my
+[11:04] stop loss below the demand right here,
+[11:07] and then I'll let my trade play out,
+[11:09] targeting the previous level that price
+[11:12] just reached. Will we be able to get
+[11:14] there? I hope so, and there it is,
+[11:17] smashing the take profit right there. We
+[11:20] could play this out a little bit further
+[11:21] to see how we would have done. We would
+[11:23] have done even better. So, let's zoom
+[11:25] back out here. Let's put this on the
+[11:27] 15-minute time frame. We had the Asian
+[11:29] session range. We had the London session
+[11:32] push, sweeping the liquidity below the
+[11:34] bottom of the range, and then we had the
+[11:36] New York session reversal right there as
+[11:39] price continued to push up. Now, it
+[11:42] didn't come all the way to the top of
+[11:44] the range again. That was a big
+[11:45] distance, but it's very possible price
+[11:47] will still seek out the liquidity above
+[11:50] that Asian range as it frequently does.
+[11:52] Now, again, you're not always going to
+[11:54] get the perfect supply and demand or
+[11:56] fair value gap setup. There's tons of
+[11:58] ways to enter ORB trades, as I've shown
+[12:01] in all my ORB videos on my channel, so
+[12:03] make sure to watch those. Consider
+[12:05] joining my VIP trading room or picking
+[12:08] up a copy of my Trade with Pat Robot
+[12:10] that trades this exact strategy
+[12:12] automatically. Leave a comment, smash
+[12:14] the like button. I'll be back next week.
+[12:16] Much love.

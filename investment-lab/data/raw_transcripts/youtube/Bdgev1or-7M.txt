@@ -1,0 +1,260 @@
+[00:00] This 5-minute scalping strategy
+[00:02] surprised me. I back tested over 330
+[00:05] trades across three different entry
+[00:07] models on the 5-minute time frame and
+[00:09] the data was interesting. Model one came
+[00:11] in at 72%, two at 77, and three tested
+[00:16] at 86. Now, before you get excited, this
+[00:19] is historical testing. Back tests are
+[00:21] not a guarantee of future performance.
+[00:23] But what matters most is the structure
+[00:25] behind it. Today, I'm breaking down
+[00:27] exactly how this model works, how I
+[00:29] filter direction, and where most traders
+[00:31] mess this up. So, if you're serious
+[00:33] about improving your execution on the
+[00:35] 5-minut time frame, smash the like
+[00:37] button, subscribe to the channel, watch
+[00:39] the disclaimer, and let's dive in.
+[00:43] Most traders focus on entries, but in my
+[00:46] experience, consistency starts before
+[00:48] the entry ever happens. There are two
+[00:51] core things I focus on every single day.
+[00:53] Step one, market direction. And step
+[00:56] two, entry model selection. I'll show
+[00:58] you both in detail using examples on the
+[01:01] charts. But first, let's start with
+[01:03] direction, a simple framework I use to
+[01:05] determine whether I should be looking
+[01:07] for sells or buys. Step one, market
+[01:10] direction. Every morning, I'm looking at
+[01:12] the Asian and London session. Then I
+[01:14] place my trades during the New York
+[01:16] session after my toddler wakes me up.
+[01:18] What happens in Asia and London will
+[01:21] tell me if I want to look for buys,
+[01:23] sells, or not trade at all and look for
+[01:25] another pair that day. I always want to
+[01:28] see a tight Asian range, an aggressive
+[01:30] push in London, and then I can expect
+[01:33] price to reverse in New York. It's a
+[01:35] simple AMD model. We have the
+[01:38] accumulation, the manipulation, and the
+[01:41] distribution. This works because there's
+[01:43] liquidity below and above the Asian
+[01:46] range. And when the big players enter
+[01:48] the market during the London session, I
+[01:51] expect price to sweep the Asian low or
+[01:54] the Asian high and then look for that
+[01:56] market to balance during the New York
+[01:58] session reversal, sweeping the other
+[02:00] side of the range. This works because
+[02:02] the market is always seeking liquidity
+[02:05] and trying to find balance. Now, if the
+[02:08] Asian range is too big like this, the
+[02:10] accumulation phase failed. or if the
+[02:13] London session doesn't give us that
+[02:15] aggressive push, the manipulation stage
+[02:18] failed. And in these cases, I simply
+[02:20] look for trades on other charts. And
+[02:22] I'll give you my favorite pairs and
+[02:24] charts later in the video. But before we
+[02:26] do anything else, I just want you to
+[02:28] leave a comment right now telling me
+[02:31] your favorite thing about trading, and
+[02:33] I'll give seven of you free access to my
+[02:35] VIP trading room. Now, let's jump into
+[02:37] the charts so I can show you some real
+[02:40] examples of this exact process
+[02:42] happening. Now, let's jump into the
+[02:44] charts and look at some examples based
+[02:47] on the Asian range and the London push.
+[02:50] I'll be looking for buy trades during
+[02:52] the New York reversal. And as you can
+[02:54] see, price reverses perfectly. Same
+[02:57] thing here. Asian range, London push,
+[03:00] New York reversal. Asian range, London
+[03:03] push, New York reversal. accumulation,
+[03:07] manipulation, distribution, Asian range,
+[03:10] London push, New York reversal. On this
+[03:13] one, the Asian range isn't as tight, but
+[03:16] the move is explosive. So, I'd still
+[03:19] look for that New York reversal. Same
+[03:21] thing here. Not a tight range, but huge
+[03:24] red candles on that London push. So, I'm
+[03:27] looking for those buys again. Asian
+[03:30] range, London push, New York reversal.
+[03:33] Asian range liquidity swept out the
+[03:36] bottom of that range. New York reversal
+[03:39] sweeping liquidity out the top of the
+[03:41] range. Perfect. The Asian range, the
+[03:44] London push, the creation of a level of
+[03:47] demand. A perfect place to enter a
+[03:50] trading position here during that New
+[03:53] York reversal. Entry models are coming
+[03:56] next. And our last example, Asian range,
+[03:59] London push, New York reversal. This
+[04:02] really works, but I have to show you how
+[04:04] I place the trades. So, let's get into
+[04:07] step two of this 5-minute scalping
+[04:09] strategy. Entry models. There are three
+[04:12] entry models. I use all three. Let's
+[04:15] start with number one, support and
+[04:16] resist. So, now I'm on the 5minut time
+[04:19] frame. I'm on EuroUSD. And this is a
+[04:21] live trade that I took. You could see we
+[04:23] had the tight Asian range, the
+[04:25] aggressive London push, and then I'm
+[04:28] looking to get in on a buy during the
+[04:30] New York reversal. So, the first thing I
+[04:32] do is I set up a support zone. You could
+[04:35] see this zone was used as support right
+[04:37] here, used as resistance right here. As
+[04:39] the London push came down, sweeping the
+[04:43] Asian low right here, we took liquidity
+[04:45] below the level of support and got an
+[04:48] immediate push up. So, at this point,
+[04:50] I'm looking to get into a trading
+[04:53] opportunity. Now, we got a pretty good
+[04:55] reaction off of this level all the way
+[04:57] to here. So, I could have really got
+[04:59] into a trading position off of this
+[05:02] candle right here. Kind of a we had that
+[05:05] bullish engulfing candle pattern that I
+[05:07] like to enter trades off of. But, I
+[05:10] didn't get in on that. I actually waited
+[05:12] a little bit longer. Look, I would have
+[05:13] won that trade if I want if I stayed
+[05:15] into it. But instead, I waited for this
+[05:18] exact thing here. So, we came back to
+[05:21] that support. We respected the level and
+[05:24] then I got my bullish engulfing pattern.
+[05:27] Okay, that just means that the candle
+[05:29] body of the green candle engulfed the
+[05:32] candle body of the red candle. That is
+[05:35] my entry confirmation, taking that trade
+[05:38] off of my level of support. And then I
+[05:40] was into the trading position and it
+[05:43] pushed up. Look, it almost smashed the
+[05:44] takerit right away. and it hits it after
+[05:47] about 45 minutes. Now, this exact entry
+[05:51] would have also worked for a demand zone
+[05:54] right here. You can see price created an
+[05:57] obvious level of demand, gave us the
+[05:59] entry pattern we liked, and price shot
+[06:01] up. And supply and demand happens to be
+[06:03] the second entry model. So, let me teach
+[06:05] you that now. Now, let's look at a
+[06:07] supply and demand trade I took recently.
+[06:09] Looked, we had the Asian range. It was
+[06:11] nice and tight. We took liquidity out
+[06:14] the top. We got the London push sweeping
+[06:17] liquidity out the bottom. So on this
+[06:18] trade, look, liquidity was swept out the
+[06:20] top and out the bottom, but it still
+[06:23] formed the perfect pattern. So I'm
+[06:25] looking for that New York reversal and
+[06:27] I'm looking for buy trades and I'm
+[06:29] looking for levels of demand because I'm
+[06:31] just looking for buy trades. And we get
+[06:33] a level of demand almost immediately.
+[06:35] You see the red candle before the big
+[06:38] push up. One, two, three, four green
+[06:41] candles in a row. A big fair value gap
+[06:44] right there. A break of structure right
+[06:46] here. All of these things tells us this
+[06:49] is a good demand zone if it can hold. So
+[06:52] what are we doing? We're waiting for
+[06:54] price to come back to that level of
+[06:56] demand. Look, we want it to respect the
+[06:58] level right there. And it does respect
+[07:00] the level. Look, perfectly. It doesn't
+[07:02] close beneath it. And as we zoom in
+[07:05] here, look, I'm starting to get the
+[07:07] pattern. I'm getting the bullish
+[07:09] engulfing pattern. The green candle is
+[07:12] engulfing the red candle. That tells me
+[07:15] we have the momentum. I'm ready to get
+[07:18] into a trading position. Now, what do I
+[07:20] want to target? I'll have my stop loss
+[07:22] right here below the level of demand. Or
+[07:25] I could put that down here. I believe I
+[07:27] had it here on the real trade. And as we
+[07:30] scroll out, let's take a look at a level
+[07:32] right here that I like. Okay, this was a
+[07:35] very, very obvious level of resistance
+[07:38] and support. It was used as support
+[07:40] right here. Used as resistance right
+[07:43] here on that push down. And because the
+[07:45] London session already swept the top and
+[07:48] the bottom of that Asian range, I'm not
+[07:51] expecting the New York to come all the
+[07:53] way up and sweep it again. So, let's go
+[07:56] ahead and play that position out very
+[07:58] quickly. Smashing the takerit right
+[08:01] there. Could have targeted a little bit
+[08:03] higher, but the pattern keeps playing
+[08:06] out. Now, this is my favorite. It's the
+[08:09] open range breakout trading entry model.
+[08:11] You could see tight Asian range, the big
+[08:15] London push, and then I'm expecting the
+[08:17] New York reversal. So, I'm looking for
+[08:20] buy trades. So, let's zoom in, and I'm
+[08:23] looking at an open range breakout. So, I
+[08:27] have to set my range right here at at
+[08:30] 9:30 to 9:45. I'm looking at the first
+[08:33] three five-minute candles. And I'm
+[08:35] setting up my range. I get the range
+[08:38] high and the range low. Now, I'm just
+[08:41] looking for breaks out the top of the
+[08:44] range to confirm momentum. Okay, so
+[08:47] right here, we don't have any, right?
+[08:49] There's no breaks. We just have wicks.
+[08:51] So, I'm waiting for a break. And then I
+[08:53] get the break and candle close right
+[08:56] here. That's what I want, right? So, now
+[08:58] I'm looking for buys. And I'm already
+[09:00] looking for buys, right? Because we're
+[09:02] in that New York reversal. So, then I'm
+[09:04] setting up entry levels. Look, I have a
+[09:06] level of demand right there. I could get
+[09:08] price to come back there. And I have a
+[09:11] fair value gap right here. I'll use both
+[09:13] of these to get entries when I'm trading
+[09:16] the orb. So, let's continue to play this
+[09:19] out. Price has now entered the orb. Is
+[09:22] it going to break through the bottom? It
+[09:24] doesn't look like it is, right? It
+[09:25] doesn't look like it does. So, it looks
+[09:27] like our fair value gap is our entry.
+[09:29] And we have the bullish engulfing candle
+[09:32] pattern right there. The big candle
+[09:34] right here. clearly engulfing this
+[09:37] little candle right here. Take my stop
+[09:39] loss, put it below the fair value gap,
+[09:41] target about 1 to two. You can see if I
+[09:44] scroll over again, this level right here
+[09:47] is a level of supply and it's a level of
+[09:50] resistance. It was used as support right
+[09:53] here, used as resistance right here, and
+[09:55] we have a huge level of supply right
+[09:58] here. So, that's exactly where I want to
+[10:00] target on this trading position. And you
+[10:03] can see here it goes pretty well.
+[10:05] Smashing my takerit right there. Let's
+[10:08] see. Did I leave something on the table?
+[10:11] No. Look, it started to really respect
+[10:13] this level right here. Broke above the
+[10:15] level right there a little bit. Let's
+[10:16] continue to play that out. But pretty
+[10:19] good target if you ask me. Obviously, I
+[10:21] have videos on every single one of these
+[10:24] entry models. You should check those out
+[10:25] to learn even more. Consider joining my
+[10:28] VIP trading room or my trade with Pat
+[10:31] robot that trades these strategies for
+[10:33] you automatically. Leave a comment,
+[10:36] smash the like button, watch this video
+[10:38] right here. Definitely watch this video
+[10:40] right here. And I'll be back next week.
+[10:42] Much love.
