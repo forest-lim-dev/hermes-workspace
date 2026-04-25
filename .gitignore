@@ -1,0 +1,41 @@
+# Secrets / credentials
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+*_token*
+*token*.txt
+*secret*
+*credentials*
+
+# Hermes/internal state if accidentally copied here
+.hermes/
+auth.json
+state.db*
+sessions/
+logs/
+cron/
+home/
+
+# OS/editor noise
+.DS_Store
+.AppleDouble
+.LSOverride
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python/cache/runtime
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Large/generated outputs
+*.tmp
+*.log
