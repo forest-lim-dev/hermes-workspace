@@ -127,3 +127,9 @@
 - [processed] YT-05 Ross Cameron - Warrior Trading — The Micro Pullback Trading Strategy (Small Account Challenge) — `strategies/daytrading/006_micro-pullback-low-float-news-momentum.md`
 - [failed] YT-06 Trade with Pat — The Only 1 Minute ORB Scalping Strategy That I TRUST — inventory URL의 video id가 10자로 기록되어 transcript 수집 불가. 원 URL 재확인 필요.
 
+### 2026-04-26 배치 처리
+- [processed] YT-04 슈퍼트레이더 — Opening Price Day Trading Method — `strategies/daytrading/007_30m-opening-range-breakout-retest-reversal.md`
+- [processed] YT-02 코인독학 — 30-Minute Chart Day Trading Method (MACD + Price Action) — `strategies/daytrading/008_hull-macd-30m-exhaustion-scalp.md`
+- [processed] YT-02 코인독학 — Bollinger Band + MFI 단타 — `strategies/daytrading/009_bollinger-squeeze-mfi-trend-breakout.md`
+- [processed] YT-05 Ross Cameron - Warrior Trading — +$2,306.80 Trading Leading Percentage Gainers — `strategies/daytrading/010_catalyst-quality-heavy-selling-avoidance-filter.md`
+
