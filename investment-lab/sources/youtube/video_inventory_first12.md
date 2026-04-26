@@ -133,3 +133,10 @@
 - [processed] YT-02 코인독학 — Bollinger Band + MFI 단타 — `strategies/daytrading/009_bollinger-squeeze-mfi-trend-breakout.md`
 - [processed] YT-05 Ross Cameron - Warrior Trading — +$2,306.80 Trading Leading Percentage Gainers — `strategies/daytrading/010_catalyst-quality-heavy-selling-avoidance-filter.md`
 
+### 2026-04-27 배치 처리
+- [processed] YT-04 슈퍼트레이더 — 볼린저밴드 매매법 — `strategies/daytrading/011_bollinger-bandwidth-squeeze-mfi-breakout.md`
+- [processed] YT-04 슈퍼트레이더 — 터틀트레이더 기법 강의 — `strategies/daytrading/012_turtle-20period-breakout-2atr-stop.md`
+- [processed] YT-04 슈퍼트레이더 — 5분봉 단타 거래량/VWAP 매매법 — `strategies/daytrading/013_intraday-vwap-pullback-retest-reversal.md`
+- [processed] YT-03 차트슈타인 — Day Trading of Madness / 200·60MA + OBV-X — `strategies/daytrading/014_ma-compression-obvx-scalping.md`
+- [failed] YT-06 Trade with Pat — Fair Value Gap Trading Strategy — YouTube subtitle 요청 중 HTTP 429로 transcript 수집 실패. 다음 배치에서 재시도 후보.
+
