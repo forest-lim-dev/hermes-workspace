@@ -1,0 +1,305 @@
+[00:00] I've tested thousands of fair value gaps
+[00:02] and I don't trade them like everyone
+[00:04] else. This trade, this trade, and this
+[00:08] trade are all thanks to my fair value
+[00:10] gap strategy that I've tested 1,01
+[00:13] times. But here's the thing. Most
+[00:16] traders are using fair value gaps
+[00:17] completely wrong. I've been trading for
+[00:20] 17 years. Let me show you how to trade
+[00:23] them so you can use them the right way.
+[00:25] Now, I never guarantee or promise future
+[00:28] results, but if this helps you even a
+[00:30] bit, smash the like button, subscribe to
+[00:32] the channel, watch the disclaimer, and
+[00:34] let's dive in.
+[00:38] A fair value gap, also known as an
+[00:40] imbalance, happens when price moves so
+[00:43] aggressively in one direction that it
+[00:45] leaves behind untraded space on the
+[00:47] charts. It usually forms across three
+[00:49] candles. Here's how it works. you have a
+[00:52] candle, a strong push candle, and
+[00:55] another candle. And between those moves,
+[00:57] price doesn't fully trade through this
+[00:59] section of the chart. That gap is what
+[01:02] we call the fair value gap. Now, if this
+[01:04] wick comes all the way down here or this
+[01:07] wick comes all the way up here, we don't
+[01:09] really have a gap. Now, think of it like
+[01:11] this. Price moved up so fast, it didn't
+[01:14] give both buyers and sellers a chance to
+[01:16] participate equally. So later, price
+[01:19] often comes back down to this level to
+[01:21] fill that imbalance before inevitably
+[01:24] continuing. But here's the thing that
+[01:26] most traders get wrong. A fair value gap
+[01:29] is not an entry signal. I've been using
+[01:31] these for over 15 years, and everyone
+[01:34] trades it the same way now. They wait
+[01:36] for price to come to the fair value gap,
+[01:38] get an entry confirmation, they place a
+[01:41] trade, they cross their fingers, and
+[01:43] they hope it smashes their takerit. But
+[01:46] the expectation and the reality is
+[01:47] different. Meanwhile, traders keep being
+[01:49] told this is a great level to trade.
+[01:51] See, price forms a fair value gap, taps
+[01:54] in, smashes the profit. And it's the
+[01:56] exact same thing here. Perfect, right?
+[01:59] And the same thing goes on sell trades.
+[02:01] Look at that. Beautiful. But if you've
+[02:03] used fair value gaps long enough, you'll
+[02:05] notice they aren't that reliable at all.
+[02:07] And you've kind of been taught a lie.
+[02:09] Like this fair value gap not holding or
+[02:12] this fair value gap not holding here.
+[02:15] this one not holding here or this one
+[02:17] finally holding here but then giving you
+[02:20] a really bad risktoreward
+[02:22] ratio. Now there's much better places to
+[02:25] take these trades from that will
+[02:27] actually result in profitable trading
+[02:30] positions. So let me show you how with
+[02:33] my full fair value gap trading strategy
+[02:36] the right way. Now, before we get into
+[02:38] some live chart examples with some
+[02:40] trades I've actually placed, let's go
+[02:42] through the strategy in four steps. Step
+[02:45] one, we're spotting fair value gaps in a
+[02:48] move with a big push. So, we have a fair
+[02:51] value gap right here, a fair value gap
+[02:54] right here, and obviously we had that
+[02:56] big push right there, which is all of
+[02:59] those green candles. Step two, we're
+[03:01] marking out a level of demand. In order
+[03:04] to do this, I mark out the red candle
+[03:07] before the big push up, the beginning of
+[03:10] the move. Now, that level is going to be
+[03:13] the most powerful level, not fair value
+[03:15] gap 1 and not fair value gap 2. Those
+[03:18] are just imbalances that tell us the
+[03:21] price is likely to retrace, which brings
+[03:24] us to step three, waiting for the
+[03:26] retracement. So, for this one, let's
+[03:28] take the Fibonacci retracement tool.
+[03:30] It's right here on Trading View. measure
+[03:32] from the swing low to the recent swing
+[03:35] high and then pull that over. Now, if
+[03:38] that swing high gets higher, that's
+[03:40] fine. If not, we can continue to leave
+[03:43] it where it's at. And the importance of
+[03:46] that level is that we want to get price
+[03:48] at a discount. And trading demand levels
+[03:52] and not fair value gaps actually helps
+[03:54] us do that. If we were to go long from
+[03:56] fair value gap one, we could have had a
+[03:59] win here. If we went long from fair
+[04:01] value gap 2, we definitely would have
+[04:04] had a loss. But if we go long from the
+[04:07] level of demand, we are giving ourselves
+[04:10] a real opportunity because we're
+[04:13] catching price at a discount. Anything
+[04:16] below 50% right here is considered
+[04:19] discounted price, which just means it's
+[04:22] a good level to place a trade. Anything
+[04:24] above that 50% is considered your
+[04:27] premium. So, you're actually paying a
+[04:29] premium. As for my stop loss, I'm just
+[04:32] putting this below the level of demand.
+[04:34] You can also put it below this wick here
+[04:37] or this wick here if you want to be even
+[04:39] safer, but generally just below that
+[04:41] demand is what I'm looking at. I'd
+[04:43] probably put it around here. And then I
+[04:45] target a recent price level. You can see
+[04:47] price reacted off of this level right
+[04:49] here. So, I thought that would be the
+[04:51] level to target. And then I can play the
+[04:53] position out. And you can see it goes in
+[04:55] my direction and smashes the takerit. If
+[04:58] I play this position out a little bit
+[05:00] further, you can see it did go even
+[05:02] higher, but I'm happy with my profit
+[05:04] target level. Now, this may seem too
+[05:07] simple, but people over complicate
+[05:09] trading too much. We want to buy low. We
+[05:12] want to sell high. We don't want to buy
+[05:15] at the top. We don't want to buy at the
+[05:17] middle. But if we trade supply and
+[05:19] demand levels, we can buy at the bottom.
+[05:23] more consistently than not. Now, I've
+[05:25] got some tricks that make this fair
+[05:26] value gap trading strategy even better.
+[05:29] So, let me show you those and then I'll
+[05:30] let you go to take this fair value gap
+[05:33] trading strategy to the next level. This
+[05:35] works on any time frame, but before I
+[05:38] even look for fair value gaps, I always
+[05:40] scroll out. I want to see recent price
+[05:43] action and I just want to zone mark out
+[05:45] the recent high and the recent low to
+[05:48] give myself a trading range that I can
+[05:52] use to establish good levels to sell
+[05:55] from the top and good levels to buy from
+[05:58] the bottom. So now I can zoom in and I
+[06:01] could, you know, get back into the
+[06:03] process that I was following. Step one,
+[06:05] I'm looking for fair value gaps and a
+[06:07] big push. And we've got the fair value
+[06:10] gap right here. And we've got our big
+[06:12] push coming from this level all the way
+[06:15] up here. So now I can mark out my level
+[06:17] of demand from the red candle before
+[06:20] that big push up. Step three, I can wait
+[06:23] for price to retrace. Just put my
+[06:25] Fibonacci on the chart right here.
+[06:27] Obviously, I'm always looking to get the
+[06:29] price below that 50% and then I can play
+[06:31] this out and simply let that price come
+[06:34] back to me. And I'm expecting it to come
+[06:36] back to me because we have that fair
+[06:38] value gap, that imbalance price is going
+[06:40] to come to. And you can see it's
+[06:42] struggling at this level right here. But
+[06:43] if you took a trade at the top, this
+[06:45] trade likely would have lost already.
+[06:47] And so we continue on waiting for price
+[06:49] to come back to our demand zone. Now,
+[06:52] this is a trade I actually sent in my
+[06:54] free trading room. The entry was exactly
+[06:57] right here at the beginning of the level
+[06:59] of demand. And on some of my accounts, I
+[07:01] was happy to pull this all the way back
+[07:04] up here. And the stop loss could be
+[07:05] going below this range here, but I had
+[07:08] it tighter. I had it somewhere around
+[07:10] here. And you can see the takerit, a
+[07:13] smart area right there. So, let's go
+[07:15] ahead and play that trade out. And it
+[07:17] was an absolute rocket to my takerit.
+[07:21] Over 80,000 people in the Telegram got
+[07:24] this exact entry. So, feel free to check
+[07:27] that out. But to push the win rate even
+[07:29] higher on this fair value gap trading
+[07:31] strategy, I'm going to show you one
+[07:32] example. Exactly what I would do in the
+[07:35] markets. Okay, it all starts with
+[07:37] marking out that resistance, marking out
+[07:40] that support. This now becomes my
+[07:42] trading range. I want to buy from down
+[07:45] here and I want to sell from up here.
+[07:47] Then I'm looking at market structure. We
+[07:49] are clearly in an uptrend on the
+[07:51] long-term market structure. Why is that?
+[07:54] Well, we have a low here. We have a
+[07:56] higher high here, a higher low here, and
+[07:59] then we have a higher high here. And as
+[08:02] the price comes down, it does not come
+[08:05] below this level. So on the long-term
+[08:07] trend, we are actually still bullish,
+[08:10] which is a good sign. Now, the next
+[08:12] thing I'm doing is looking at the
+[08:14] short-term trend. I'll just map out from
+[08:16] the top here the current trend. Right?
+[08:19] So this is exactly what that looks like.
+[08:21] Here we have the high then we have a
+[08:24] lower low, a lower high and a lower low.
+[08:28] At this point we also have a lower high.
+[08:30] Right? So market is continuing into a
+[08:34] downtrend right now on the shortterm
+[08:37] trend. So let's say I like this level as
+[08:40] a demand zone. We got some big green
+[08:42] candles there. Got a nice push up. It's
+[08:44] from our level of support. I would not
+[08:47] actually take this trade. Why would I
+[08:49] not take this trade? Now look, that
+[08:51] would have been a nice trade, but I
+[08:52] would not take the trade until this
+[08:54] level is broken, right? Let me show you.
+[08:57] This was the market structure right
+[09:00] here. So until I get a break of
+[09:02] structure right here, I would not be
+[09:04] looking for buy trades. But luckily, we
+[09:07] just got that break of structure, right?
+[09:08] That just happened. And when that
+[09:10] happened, price created a new level of
+[09:13] demand. Perfect. So let's continue to
+[09:16] map that out. Now, what's the next thing
+[09:18] we're doing? Well, we're mapping out
+[09:19] fair value gaps, right? We've got the
+[09:21] big fair value gap right there. And
+[09:23] look, a lot of people, they want to see
+[09:25] price come to that level right there.
+[09:27] They're going to take their buy trade,
+[09:29] right? Is that what you want to do?
+[09:31] Well, let's play out. Does that fair
+[09:33] value gap work? No, that fair value gap
+[09:35] does not work. What does work is our
+[09:38] level of demand, right? The fair value
+[09:41] gap is just telling us that price is
+[09:44] likely to come down to demand. likely
+[09:47] going to get the retrace. So, let's take
+[09:49] that Fibonacci bottom of the move, top
+[09:51] of the move. Very simply, we now have
+[09:54] price below 50%. So, we're getting price
+[09:56] at a discount. And at this point, I'm
+[09:59] ready to open a trade. And where am I
+[10:01] going to trade? I'm going to trade right
+[10:02] off of this candle right there. Why?
+[10:04] Because that is a bullish engulfing
+[10:07] pattern. You can see these two candles
+[10:09] right here. You have a bearish candle, a
+[10:12] bullish candle, and the bullish candle
+[10:14] is engulfing the bearish candle. That is
+[10:17] a good momentum indicator. I would take
+[10:19] my stop loss. I'd put it probably about
+[10:22] here. Okay, that's a bit lower than
+[10:24] usual, right? But we had this wick over
+[10:26] here. And this support level was tested
+[10:29] multiple times. So, I don't want it to
+[10:31] test a third time and knock me out of
+[10:33] the trading position. But I do have my
+[10:36] momentum right there. And on this trade,
+[10:38] I actually let this one run and I used a
+[10:41] trailing stop. So, let's go ahead and
+[10:43] continue to play out the position. We
+[10:45] got the reaction we were expecting,
+[10:47] right? We want to have that big move
+[10:49] from demand. Sometimes what I would do
+[10:52] in a position like this, I would take
+[10:54] partial profits at this level right
+[10:56] here. But price broke through that level
+[10:58] so aggressively, I was able to just
+[11:01] continue on with the trading position.
+[11:02] And then you can see, oh, did it smash
+[11:04] take profit right there? it would have
+[11:06] if that's where I had my takerit. But on
+[11:09] this one, I actually took profit a
+[11:11] little bit lower somewhere around here
+[11:13] because I was trailing the position. So
+[11:15] basically, I was watching the position
+[11:17] come all the way up. I still felt good
+[11:19] about a breakout up here. But then when
+[11:22] price started to come down, once it
+[11:24] reached this level right here and I saw
+[11:27] that level getting broken, I decided to
+[11:29] get out of the position quickly. And you
+[11:31] know, it wasn't the best decision
+[11:33] because if I were to play this forward,
+[11:35] you could see price did end up shooting
+[11:37] up further. So, I didn't get that one
+[11:39] completely right. You don't always get
+[11:41] the profit targets completely right. But
+[11:43] still, I was able to get a riskreward of
+[11:46] about 2.15 by watching that trading
+[11:48] position. Maybe if I left it alone, I
+[11:51] could have got all the way up here to
+[11:53] 4.5, but we never cry over spilled milk.
+[11:56] If you enjoyed my fair value gap trading
+[11:58] strategy, leave a comment, like the
+[12:01] video, consider joining my VIP trading
+[12:03] room where I send signals like this one,
+[12:06] or maybe just watch some more free
+[12:07] videos like this one here or this one
+[12:09] here. I'll be back next week. much slow.

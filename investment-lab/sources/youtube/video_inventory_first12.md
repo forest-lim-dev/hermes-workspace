@@ -140,3 +140,10 @@
 - [processed] YT-03 차트슈타인 — Day Trading of Madness / 200·60MA + OBV-X — `strategies/daytrading/014_ma-compression-obvx-scalping.md`
 - [failed] YT-06 Trade with Pat — Fair Value Gap Trading Strategy — YouTube subtitle 요청 중 HTTP 429로 transcript 수집 실패. 다음 배치에서 재시도 후보.
 
+### 2026-04-28 배치 처리
+- [processed] YT-06 Trade with Pat — Fair Value Gap Trading Strategy — `strategies/daytrading/015_fvg-demand-discount-bos-reversal.md`
+- [processed] YT-04 슈퍼트레이더 — 단타 매매법 딱 1가지만 알면 인생이 바뀝니다 — `strategies/daytrading/016_price-action-trend-supply-demand-pullback.md`
+- [processed] YT-04 슈퍼트레이더 — This short-term trading method will change your life in just one hour a day — `strategies/daytrading/017_9am-liquidity-sweep-fvg-demand-reversal.md`
+- [processed] YT-04 슈퍼트레이더 — 급등 차트 패턴 보는법, 딱 6가지만 — `strategies/daytrading/018_chart-pattern-breakout-pullback-measured-move.md`
+- [processed] YT-04 슈퍼트레이더 — 3개 이동평균/쿨라매기식 단계 필터 — `research/non_strategy/ma-stage-cycle-trend-filter.md`
+
