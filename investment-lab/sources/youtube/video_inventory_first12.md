@@ -147,3 +147,10 @@
 - [processed] YT-04 슈퍼트레이더 — 급등 차트 패턴 보는법, 딱 6가지만 — `strategies/daytrading/018_chart-pattern-breakout-pullback-measured-move.md`
 - [processed] YT-04 슈퍼트레이더 — 3개 이동평균/쿨라매기식 단계 필터 — `research/non_strategy/ma-stage-cycle-trend-filter.md`
 
+### 2026-04-29 배치 처리
+- [processed] YT-06 Trade with Pat — Simple A+ Scalping Strategy You’ve NEVER Seen — `strategies/daytrading/019_opening-range-reversal-weak-break-scalp.md`
+- [processed] YT-06 Trade with Pat — The ONLY Liquidity Trading Strategy WORTH Learning — `strategies/daytrading/020_liquidity-sweep-orb-demand-supply-reversal.md`
+- [processed] YT-06 Trade with Pat — The EASIEST Scalping Strategy I Trade DAILY — `strategies/daytrading/021_15m-orb-displacement-fvg-demand-retest-scalp.md`
+- [failed] YT-01 대왕개미 홍인기 — 4 Day Trading Stop-Loss Techniques — `yt-dlp` subtitle 다운로드 중 HTTP 429로 수집 실패. 다음 배치 재시도 후보.
+- [failed] YT-01 대왕개미 홍인기 — Stock day trading techniques for leading stocks — `yt-dlp` subtitle 다운로드 중 HTTP 429로 수집 실패. 다음 배치 재시도 후보.
+
