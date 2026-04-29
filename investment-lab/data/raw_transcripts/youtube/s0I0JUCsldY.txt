@@ -1,0 +1,307 @@
+Title: Trade with Pat — I Coded my Trading Strategy into a ROBOT
+URL: https://www.youtube.com/watch?v=s0I0JUCsldY
+Language: en
+
+[00:00] Everyone says, "If your trading strategy
+[00:02] actually works, why not code it into a
+[00:04] trading robot?" So, I did. Done. I put
+[00:07] my 17 years of trading experience into a
+[00:10] single algorithm, and it's already being
+[00:12] used by over,200 traders. But here's the
+[00:15] truth. Most people have no idea how to
+[00:18] use a trading robot properly. They risk
+[00:20] too much. They trade in bad conditions.
+[00:23] They don't even set it up right. So, in
+[00:26] this video, I'm going to show you in
+[00:27] three steps exactly how to use Trading
+[00:30] Robots the right way. Because if you
+[00:33] don't, you'll blow your account, no
+[00:35] matter how good the strategy is. Now,
+[00:37] smash the like button, read the
+[00:39] disclaimer, and let's dive in.
+[00:43] Now, before we get into step one, I'm in
+[00:46] a live robot trade right now, close to
+[00:49] my profit level right here. And I'll get
+[00:51] back to this trade later in the video.
+[00:53] And here is the account that it's
+[00:55] trading. Fully automated, no manual
+[00:58] entries. Everything you're seeing here
+[01:00] is real and verified. But I've been
+[01:02] trading with robots for a very long
+[01:04] time. So I've developed this skill and
+[01:06] there is obviously risk involved. Now
+[01:09] I'll show you some community member
+[01:11] trading accounts later in the video. But
+[01:13] first, none of this works if you can't
+[01:15] set up a robot properly. Step one,
+[01:18] setting up a robot. This is really quick
+[01:20] and simple. First, we have to download
+[01:22] MetaTrader. You can use any broker you
+[01:24] want. I use Hoy next. I'm just in tools
+[01:27] trading terminals and then I'm clicking
+[01:29] on MetaTrader 5 to my desktop. Next,
+[01:32] we're just installing MetaTrader. So,
+[01:34] here it is on my desktop. And here's a
+[01:36] trick that I do. I come to settings and
+[01:37] I always put one one next. The
+[01:40] installation is really, really quick. It
+[01:42] takes almost no resources on your
+[01:44] computer. Finish. Then I always pin this
+[01:46] to my taskbar. And before moving to the
+[01:49] next step, I click on this again. I come
+[01:51] to settings and I put two two and I
+[01:54] install another version. And sometimes
+[01:57] I'll do this 10 even 20 times so that I
+[02:00] could run a ton of different tests and
+[02:03] pick the one I like best. Next, I'm just
+[02:05] going to download the robot. So I come
+[02:07] to the members area, scroll down and
+[02:09] click download the robot. And last, we
+[02:11] have to install the robot. So I've got
+[02:13] the file on my desktop. I'm just going
+[02:15] to open that up. I installed MetaTrader
+[02:17] 5. So I'm just going to go to MetaTrader
+[02:18] 5. Then I'm coming into the MetaTrader
+[02:21] platform, clicking file, open data
+[02:23] folder, going to MQL5 experts advisor,
+[02:28] and I'm just going to drag and drop that
+[02:30] into this folder. Go back into
+[02:31] MetaTrader. I'm going to click refresh,
+[02:34] rightclick, refresh in the navigator,
+[02:37] view, view, navigator, view, market
+[02:40] watch. That's going to get you the
+[02:42] pairs. And then I could take this robot,
+[02:44] I could drag it onto a chart, allow Algo
+[02:47] trading, plug in my username, accept the
+[02:49] terms of service, and I am in business.
+[02:53] This robot can now place trades on my
+[02:55] account for me. So that's the setup.
+[02:58] We're ready to go. But before we jump
+[03:00] into step number two, I want to explain
+[03:02] set files because this is where the real
+[03:04] edge actually comes from. So let's come
+[03:07] back into MetaTrader. I'm going to take
+[03:08] the Euro US dollar chart. I'm going to
+[03:10] open that up. I'm going to take the
+[03:11] robot. I'm going to drag it on the chart
+[03:13] and this time I'm going to click load.
+[03:16] You'll see the robot comes with set
+[03:17] files in the sets folder. Low frequency
+[03:20] or regular. I like regular. And then we
+[03:22] have a Euro US dollar set file right
+[03:25] here. And when I load this set file,
+[03:27] look over here on the left. You'll see
+[03:29] that all of these parameters change,
+[03:32] which means it's loading a set file that
+[03:34] I've personally created, tested, and am
+[03:37] running live right now. So this is that
+[03:39] exact same Euro US dollar set file
+[03:42] tested over 5 years and the results are
+[03:44] incredible. But obviously this is a back
+[03:47] test which is no guarantee of future
+[03:49] performance. But if we click right here
+[03:51] I have a forward test where I am
+[03:54] actively live trading this exact same
+[03:57] strategy. And as you can see here it is
+[04:00] going very very well. Winning a trade
+[04:02] this morning. And this is using the
+[04:04] software in a low-risk manner where the
+[04:06] biggest draw down I've had is just 2.9%
+[04:09] and I'm aiming for a monthly gain of
+[04:11] about 2.5%. This is the same approach
+[04:14] that I'm using right here. And it's
+[04:16] actually the same set file that I'm
+[04:18] using here but in a much more highrisk
+[04:21] way. And using it this way is only for
+[04:23] advanced users because when you get to a
+[04:26] 20% draw down or in this case here the
+[04:29] same set file for a 33% draw down I am
+[04:32] taking more risk understanding that
+[04:34] there is a possibility of losing an
+[04:37] account which is always a possibility
+[04:39] when you're trading. Now we also have
+[04:41] members using the set files in the
+[04:44] discord every day. This is a trade from
+[04:46] this morning. The entry was here. The
+[04:48] exit was here. This was on that exact
+[04:50] same set file and it won the trade for
+[04:53] Ricky BLN. So, shout out to Ricky. And
+[04:55] there's a bunch of traders leaving their
+[04:58] results. These are all just from this
+[05:00] morning. And if I scroll up even
+[05:02] further, you can see Infinity who posted
+[05:05] his results is giving us a Great Britain
+[05:08] pound Europe set file that we can
+[05:10] download. And if we want, we can load
+[05:13] this exact set file into our trading
+[05:17] account. Shout out to Infinity. Now, I'm
+[05:19] going to jump back into that live trade
+[05:21] soon, but we really have to get into
+[05:23] step two, which is so important for
+[05:25] robot success, and that's understanding
+[05:28] the strategy. Let's come back into
+[05:30] MetaTrader. Let's take that robot, put
+[05:32] it on the chart again, and this time we
+[05:34] could look at the parameters. You can
+[05:36] adjust the risk level. I like to use the
+[05:39] dynamic risk and the robot will adjust
+[05:42] the stop-loss and the takerit
+[05:44] automatically using either points ATR or
+[05:47] stop-loss ratio. But most importantly,
+[05:49] it's the strategy. And this is all about
+[05:52] opening ranges. Now, you can set if you
+[05:55] want to trade the opening range from
+[05:56] Asian, European, London, American, New
+[05:59] York Stock Exchange open, or even your
+[06:01] own custom range. And then there's a
+[06:03] bunch of different entry modes like
+[06:05] breakout, instant breakout, retrace,
+[06:07] instant retrace, or probably what you're
+[06:09] most familiar with is the retest range
+[06:11] in the same direction. Let me show you.
+[06:13] So for this example, price is setting
+[06:15] the top and bottom of the range as you
+[06:18] can see right here. And the robot does
+[06:20] this exact thing for you. And this
+[06:22] becomes our trading range for this
+[06:25] trading session. And with the retest
+[06:27] range in the same direction strategy,
+[06:29] we'll be waiting for price to break and
+[06:32] close outside the top of that range just
+[06:35] like it did right there and then retest
+[06:37] the top of the range like it did right
+[06:39] there to get into a trading position
+[06:42] just like this one. And the robot will
+[06:44] see that and it will enter that based
+[06:46] upon the settings. And then ideally
+[06:49] price will go in your direction and
+[06:51] smash the takerit. Now maybe that seems
+[06:54] too simple. there's not enough filters.
+[06:56] That's when you can scroll down here and
+[06:59] come to the filters. Maybe you want an
+[07:01] EMA. So, with the EMA here activated,
+[07:05] the robot will only place buy trades if
+[07:08] if price is above that EMA, which in
+[07:11] this case it was. Or maybe you only want
+[07:14] to take trades where there's support or
+[07:17] resistance levels. Then you would set
+[07:19] this to true. then the robot will only
+[07:21] look to take trades at levels of support
+[07:23] and resistance. This level was used as
+[07:26] resistance here and is being used as
+[07:28] support here. So, this would have still
+[07:30] provided a winning trade opportunity.
+[07:33] But maybe that's not enough and you're
+[07:35] really worried about news. Well, then
+[07:37] you could set a news source, maybe MQL5
+[07:40] or forexfactory.com, and then you could
+[07:42] say, "Hey, I'm going to avoid high
+[07:44] impact news 60 minutes before and 60
+[07:47] minutes after an event." So, if
+[07:49] President Trump is speaking and you
+[07:51] don't want to trade when President Trump
+[07:53] speaks, and I certainly don't, you'd use
+[07:56] that filter. And then if Trump happens
+[07:58] to be speaking at this level, right,
+[08:00] then you won't get the trade, but you
+[08:02] can avoid the volatility, which is
+[08:05] really important because with my trading
+[08:07] robots, I'm always trying to trade low
+[08:09] volatility. Now, why don't we go ahead
+[08:11] and load one of the most popular set
+[08:14] files here. And if we go down to the
+[08:16] entry mode, you can see this is trading
+[08:18] the American session and using the
+[08:20] instant retrace entry mode. And this is
+[08:23] another trade it took recently just
+[08:26] yesterday. So let's go ahead and take a
+[08:28] look. It created the trading range. And
+[08:31] then what happened? Price comes down
+[08:33] right here to our instant retrace. And
+[08:36] on the instant retrace, price is going
+[08:38] to use the bottom of this level as
+[08:40] support and the top of the range as
+[08:43] resistance. So, when price came to this
+[08:46] support level, it instantly entered the
+[08:48] trade and won the position for about
+[08:50] nine pips in about 9 minutes. An awesome
+[08:53] scalping trade. And if I go back into
+[08:55] the Discord, this was this exact trade
+[08:58] that our member had right here. Now, I'm
+[09:01] going to get back into that live trade
+[09:03] and show you the final step, which is
+[09:05] the most important, setting proper
+[09:08] goals. Now, before we get into that
+[09:09] final step, let's rejoin the live trade
+[09:12] here. You see, we're very close to
+[09:14] closing this thing out in profit. There
+[09:17] it goes. A perfect sell trading position
+[09:20] with the robot. But none of this is
+[09:22] possible without understanding goals and
+[09:24] risk. We've covered the setup. The
+[09:26] execution handles itself. It's all about
+[09:29] the risk. Is it safe? Yes, we can
+[09:32] proceed. Is it safe? No. We have to
+[09:35] adjust the settings again. If the risk
+[09:37] is not safe, you can end up with an
+[09:40] account blowing looking just like this.
+[09:43] And this screenshot is from a real
+[09:45] member from the Discord. It's a demo
+[09:47] account, but he was brand new. He didn't
+[09:49] know what he was doing. And this is the
+[09:51] exact same trade where this guy blew his
+[09:53] account. So, what did he do? Well, we
+[09:56] had the setting right here, right? We
+[09:58] set the range. The range got set. Price
+[10:00] retraced. It entered on the retrace,
+[10:03] right? So, one sell position right here.
+[10:05] Then as the price came up right here, we
+[10:08] had a another sell position, another
+[10:10] sell position and another sell position.
+[10:12] As the robot is using grid and
+[10:14] increasing the lot size in order to make
+[10:18] a profit on this position and then as
+[10:21] the trade retraces, it adjusts the
+[10:24] takerit for the client and right there
+[10:27] it wins the trading position. This trade
+[10:29] ended up on my account I gained 201.44.
+[10:33] The first position was a loss. The
+[10:35] second position was a loss, right? So,
+[10:37] this lost and this lost and then this
+[10:39] one and this one ended up winning. But
+[10:41] that new member was risking so much he
+[10:43] lost his whole demo account on what
+[10:44] happened to be just like a 30 pip move.
+[10:47] I'm sure Trump had something to do with
+[10:48] that one. And this is why understanding
+[10:50] risk is incredibly important. You have a
+[10:53] lower risk account right here and then I
+[10:55] have a higher risk account right here.
+[10:57] Now if we scroll over here to a back
+[11:01] test you can see you have these
+[11:03] drawdowns and these drawdowns look very
+[11:06] small and they are relatively small if
+[11:08] the risk is low. But a draw down like
+[11:11] this one right here on this account
+[11:13] could crash it because it's very high
+[11:15] risk. That same draw down on this
+[11:18] account would likely be just something
+[11:20] around 6 to 7% and then it would be able
+[11:23] to recover and continue going up. So,
+[11:25] it's important to understand your goals
+[11:27] and your time horizon. If you're going
+[11:29] to go high risk like this account, you
+[11:32] should pull profits at some point.
+[11:34] Whereas, this lower risk account, you
+[11:36] can hold for a longer period of time
+[11:39] with less risk. Now, if you want to
+[11:41] learn more about the robot, I'll leave a
+[11:43] link in the video description to the
+[11:45] Discord. You could talk to other users,
+[11:47] download their settings, do whatever you
+[11:49] want to do. Now, obviously, trading is
+[11:51] always risky, so trade safe. Like the
+[11:54] video, subscribe to the channel, maybe
+[11:56] watch this video right here. Definitely
+[11:59] watch this video right here. I'll be
+[12:00] back next week.

@@ -154,3 +154,9 @@
 - [failed] YT-01 대왕개미 홍인기 — 4 Day Trading Stop-Loss Techniques — `yt-dlp` subtitle 다운로드 중 HTTP 429로 수집 실패. 다음 배치 재시도 후보.
 - [failed] YT-01 대왕개미 홍인기 — Stock day trading techniques for leading stocks — `yt-dlp` subtitle 다운로드 중 HTTP 429로 수집 실패. 다음 배치 재시도 후보.
 
+### 2026-04-30 배치 처리
+- [processed] YT-01 대왕개미 홍인기 — 4 Day Trading Stop-Loss Techniques — `strategies/daytrading/022_dplus-leader-stoploss-no-averaging-risk-overlay.md`
+- [processed] YT-01 대왕개미 홍인기 — Stock day trading techniques for leading stocks — `strategies/daytrading/023_dplus-theme-leader-index-selloff-pullback.md`
+- [processed] YT-06 Trade with Pat — The Silver Trading Strategy I Use to Catch Explosive Moves — `strategies/daytrading/024_fresh-supply-demand-ema200-fvg-scalp.md`
+- [processed] YT-06 Trade with Pat — I Coded my Trading Strategy into a ROBOT — `strategies/daytrading/025_orb-retest-instant-retrace-automation-scalp.md`
+
