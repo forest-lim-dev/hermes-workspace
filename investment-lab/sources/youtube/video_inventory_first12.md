@@ -160,3 +160,10 @@
 - [processed] YT-06 Trade with Pat — The Silver Trading Strategy I Use to Catch Explosive Moves — `strategies/daytrading/024_fresh-supply-demand-ema200-fvg-scalp.md`
 - [processed] YT-06 Trade with Pat — I Coded my Trading Strategy into a ROBOT — `strategies/daytrading/025_orb-retest-instant-retrace-automation-scalp.md`
 
+### 2026-05-01 배치 처리
+- [processed] YT-02 코인독학 — 5-Minute Chart Day Trading Method / Hull Band + ADX — `strategies/daytrading/026_hull-band-adx-5m-rr2-scalp.md`
+- [processed] YT-02 코인독학 — Trend Line Trading Method — `strategies/daytrading/027_auto-trendline-breakout-fakeout-filter-scalp.md`
+- [processed] YT-02 코인독학 — 초단기간 → 13억 버는 과정 라이브 인증 — `strategies/daytrading/028_extreme-dot-30m-fixed-09pct-reversal-scalp.md`
+- [processed] YT-02 코인독학 — To prove that trading isn't luck — `strategies/daytrading/029_all-in-one-trend-band-entry-tp-exit.md`
+- [deferred] YT-01 대왕개미 홍인기 — 5 Years of Day Trading, Monthly Losses — transcript 수집 완료(`data/raw_transcripts/youtube/m8jFDg6-LXI.txt`)했으나 인터뷰/리스크 관리 성격이 강해 다음 배치에서 비전략·리스크 오버레이 문서 후보로 검토.
+
