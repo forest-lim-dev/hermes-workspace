@@ -167,3 +167,13 @@
 - [processed] YT-02 코인독학 — To prove that trading isn't luck — `strategies/daytrading/029_all-in-one-trend-band-entry-tp-exit.md`
 - [deferred] YT-01 대왕개미 홍인기 — 5 Years of Day Trading, Monthly Losses — transcript 수집 완료(`data/raw_transcripts/youtube/m8jFDg6-LXI.txt`)했으나 인터뷰/리스크 관리 성격이 강해 다음 배치에서 비전략·리스크 오버레이 문서 후보로 검토.
 
+### 2026-05-02 배치 처리
+- [processed] YT-01 대왕개미 홍인기 — 5 Years of Day Trading, Monthly Losses — `strategies/daytrading/030_theme-leader-gap-limit-risk-scalp.md`
+- [processed] AR-09 Qullamaggie — How to master a setup: Episodic Pivots — `strategies/daytrading/031_episodic-pivot-orh-news-gap.md`
+- [processed] AR-09 Qullamaggie — 3 TIMELESS setups / Breakouts — `strategies/daytrading/032_leader-momentum-compression-breakout.md`
+- [processed] AR-09 Qullamaggie — 3 TIMELESS setups / Parabolic Short or Long — `strategies/daytrading/033_parabolic-vwap-fail-short-orh-bounce.md`
+- [raw] Qullamaggie article excerpts saved — `sources/articles/2026-05-02_qullamaggie_excerpts.md`
+- [failed] YT-03 차트슈타인 — Moving Average Trend Trading Strategy — YouTube transcript API IP blocked 및 yt-dlp subtitle HTTP 429로 수집 실패. 다음 배치 재시도 후보.
+- [failed] YT-03 차트슈타인 — ICT 트레이딩 최고수가 말하는 매매전략의 모든 것 — YouTube transcript API IP blocked 및 yt-dlp subtitle HTTP 429로 수집 실패. 다음 배치 재시도 후보.
+- [failed] YT-03 차트슈타인 — Day trading method using moving averages and volume — YouTube transcript API IP blocked 및 yt-dlp subtitle HTTP 429로 수집 실패. 다음 배치 재시도 후보.
+
