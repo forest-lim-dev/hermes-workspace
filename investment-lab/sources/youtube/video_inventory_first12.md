@@ -177,3 +177,10 @@
 - [failed] YT-03 차트슈타인 — ICT 트레이딩 최고수가 말하는 매매전략의 모든 것 — YouTube transcript API IP blocked 및 yt-dlp subtitle HTTP 429로 수집 실패. 다음 배치 재시도 후보.
 - [failed] YT-03 차트슈타인 — Day trading method using moving averages and volume — YouTube transcript API IP blocked 및 yt-dlp subtitle HTTP 429로 수집 실패. 다음 배치 재시도 후보.
 
+### 2026-05-03 배치 처리
+- [processed] YT-03 차트슈타인 — Moving Average Trend Trading Strategy — `strategies/daytrading/034_sma20-adx-pullback-trend-scalp.md`
+- [processed] YT-03 차트슈타인 — ICT 트레이딩 최고수가 말하는 매매전략의 모든 것 — `strategies/daytrading/035_ict-pdr-fvg50-orderblock-poi-scalp.md`
+- [processed] YT-03 차트슈타인 — Day trading method using moving averages and volume — `strategies/daytrading/036_weekly-vwap-band-mean-reversion-trend-scalp.md`
+- [processed] YT-03 차트슈타인 — 하이킨아시 주식/코인 매매기법 — `strategies/daytrading/037_heikin-ashi-ema20-rsi50-trend-scalp.md`
+- [raw-deferred] YT-06 Trade with Pat — The 1 Price Action Trading Strategy that made it ALL CLICK — transcript saved to `data/raw_transcripts/youtube/NWHFPAXUt8Q.txt`; next batch candidate.
+
