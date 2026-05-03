@@ -184,3 +184,11 @@
 - [processed] YT-03 차트슈타인 — 하이킨아시 주식/코인 매매기법 — `strategies/daytrading/037_heikin-ashi-ema20-rsi50-trend-scalp.md`
 - [raw-deferred] YT-06 Trade with Pat — The 1 Price Action Trading Strategy that made it ALL CLICK — transcript saved to `data/raw_transcripts/youtube/NWHFPAXUt8Q.txt`; next batch candidate.
 
+### 2026-05-04 배치 처리
+- [processed] YT-06 Trade with Pat — The 1 Price Action Trading Strategy that made it ALL CLICK — `strategies/daytrading/038_htf-structure-demand-engulf-session-scalp.md`
+- [processed] AR-09 Qullamaggie — Some good Tweetstorms / MA pullback tight range ORH idea — `strategies/daytrading/039_leader-tight-range-orh-low-entry-breakout.md`
+- [processed] AR-09 Qullamaggie — Lessons from a $140K loss — `strategies/daytrading/040_gap-up-extended-leader-short-avoidance-range-of-death.md`
+- [processed-non-strategy] AR-05 Investors Underground Blog main page — `research/non_strategy/iu-volatile-market-regime-watchlist-overlay.md`
+- [raw] Article raw extracts saved — `sources/articles/raw/2026-05-04_qulla_tweetstorms.txt`, `sources/articles/raw/2026-05-04_qulla_lessons.txt`, `sources/articles/raw/2026-05-04_iu_blog.txt`
+- [failed] AR-07 AlphaTrends — Anchored VWAP pages returned Cloudflare/403 block; raw block pages remain as access-failure evidence.
+- [failed] 신규 YouTube 후보 O1jQAkBMgS0, 3FD0SwRS-SQ, CtHZ1jxYanY, vfsTAB0Pb7Y — YouTube transcript API IpBlocked 및 yt-dlp subtitle HTTP 429.
