@@ -192,3 +192,10 @@
 - [raw] Article raw extracts saved — `sources/articles/raw/2026-05-04_qulla_tweetstorms.txt`, `sources/articles/raw/2026-05-04_qulla_lessons.txt`, `sources/articles/raw/2026-05-04_iu_blog.txt`
 - [failed] AR-07 AlphaTrends — Anchored VWAP pages returned Cloudflare/403 block; raw block pages remain as access-failure evidence.
 - [failed] 신규 YouTube 후보 O1jQAkBMgS0, 3FD0SwRS-SQ, CtHZ1jxYanY, vfsTAB0Pb7Y — YouTube transcript API IpBlocked 및 yt-dlp subtitle HTTP 429.
+
+### 2026-05-05 배치 처리
+- [processed] YT-01 대왕개미 홍인기 — 국장 단타의 시대가 왔다 — `strategies/daytrading/041_kosdaq-liquidity-flow-theme-leader-daytrade.md`
+- [processed] YT-02 코인독학 — 2026년 횡보장 → 1억을 만든 매매법 4가지 — `strategies/daytrading/042_squeeze-box-two-point-breakout-reversal.md`
+- [processed] YT-02 코인독학 — RSI 실전 매매법 — `strategies/daytrading/043_new-rsi-exhaustion-cross-15m-reversal-scalp.md`
+- [processed] YT-03 차트슈타인 — MACD 차트분석 비밀 — `strategies/daytrading/044_multi-timeframe-macd-zero-histogram-scalp.md`
+- [raw] YouTube transcripts saved — `data/raw_transcripts/youtube/O1jQAkBMgS0.txt`, `data/raw_transcripts/youtube/3FD0SwRS-SQ.txt`, `data/raw_transcripts/youtube/CtHZ1jxYanY.txt`, `data/raw_transcripts/youtube/vfsTAB0Pb7Y.txt`
