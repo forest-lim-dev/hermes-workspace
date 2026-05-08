@@ -199,3 +199,11 @@
 - [processed] YT-02 코인독학 — RSI 실전 매매법 — `strategies/daytrading/043_new-rsi-exhaustion-cross-15m-reversal-scalp.md`
 - [processed] YT-03 차트슈타인 — MACD 차트분석 비밀 — `strategies/daytrading/044_multi-timeframe-macd-zero-histogram-scalp.md`
 - [raw] YouTube transcripts saved — `data/raw_transcripts/youtube/O1jQAkBMgS0.txt`, `data/raw_transcripts/youtube/3FD0SwRS-SQ.txt`, `data/raw_transcripts/youtube/CtHZ1jxYanY.txt`, `data/raw_transcripts/youtube/vfsTAB0Pb7Y.txt`
+
+### 2026-05-08 배치 처리
+- [processed] YT-01 대왕개미 홍인기 — 대박 나는 종목은 정해져 있다 — `strategies/daytrading/045_dplus-theme-leader-liquidity-top-turnover-scalp.md`
+- [processed] YT-03 차트슈타인 — 170억 수익 투자 챔피언십/마크 민어비니 VCP — `strategies/daytrading/046_vcp-pivot-volume-breakout-trailing-20ma.md`
+- [processed] YT-03 차트슈타인 — Bollinger Bands 10B strategy — `strategies/daytrading/047_bollinger-volume-cci-squeeze-breakout-scalp.md`
+- [processed] YT-04 슈퍼트레이더 — 단타 천재가 300만원 계좌를 성장시킨 매매법 — `strategies/daytrading/048_sma20-200-squeeze-play-trend-continuation.md`
+- [processed] YT-04 슈퍼트레이더 — 프라이스 액션 — `strategies/daytrading/049_price-action-structure-zone-breakout-retest.md`
+- [raw] YouTube transcripts saved — `data/raw_transcripts/youtube/j6A7Kf9WYXs.txt`, `data/raw_transcripts/youtube/YORub0EQo1o.txt`, `data/raw_transcripts/youtube/Xfu-svNLAV8.txt`, `data/raw_transcripts/youtube/fCeBI1Gu06I.txt`, `data/raw_transcripts/youtube/xIz0WSQy568.txt`
