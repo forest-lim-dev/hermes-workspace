@@ -207,3 +207,12 @@
 - [processed] YT-04 슈퍼트레이더 — 단타 천재가 300만원 계좌를 성장시킨 매매법 — `strategies/daytrading/048_sma20-200-squeeze-play-trend-continuation.md`
 - [processed] YT-04 슈퍼트레이더 — 프라이스 액션 — `strategies/daytrading/049_price-action-structure-zone-breakout-retest.md`
 - [raw] YouTube transcripts saved — `data/raw_transcripts/youtube/j6A7Kf9WYXs.txt`, `data/raw_transcripts/youtube/YORub0EQo1o.txt`, `data/raw_transcripts/youtube/Xfu-svNLAV8.txt`, `data/raw_transcripts/youtube/fCeBI1Gu06I.txt`, `data/raw_transcripts/youtube/xIz0WSQy568.txt`
+
+### 2026-05-09 배치 처리
+- [processed] YT-01 대왕개미 홍인기 — 우상향 계좌의 비결 딱 3가지 — `strategies/daytrading/050_equity-curve-adaptive-size-market-rhythm-overlay.md`
+- [processed] YT-01 대왕개미 홍인기 — 월천 자영업자 수익비결 / D+0·D+1 기준봉 도지 눌림 — `strategies/daytrading/051_dplus-leader-base-doji-first-pullback.md`
+- [processed] YT-01 대왕개미 홍인기 — 월천 자영업자 수익비결 / 테마 1등주 우선 후발주 눌림 필터 — `strategies/daytrading/052_theme-leader-ranking-pullback-vs-chase-filter.md`
+- [processed] YT-03 차트슈타인 — 세력의 모든것 — `strategies/daytrading/053_operator-volume-breakout-retest-candle-confirmation.md`
+- [processed-non-strategy] YT-04 슈퍼트레이더 — 소액 계좌 성장 방법 — `research/non_strategy/small-account-risk-journal-edge-overlay.md`
+- [processed-non-strategy] YT-01 대왕개미 홍인기 — 평범한 주부를 돈벌게 해준 주식매매 2가지 원칙 — 보조 근거로 `research/non_strategy/small-account-risk-journal-edge-overlay.md`에 반영
+- [raw] YouTube transcripts saved — `data/raw_transcripts/youtube/Z1k_H6xpejs.txt`, `data/raw_transcripts/youtube/sLquQu2DKo4.txt`, `data/raw_transcripts/youtube/HDBwFo_oVgI.txt`, `data/raw_transcripts/youtube/3AQYrIAv01s.txt`, `data/raw_transcripts/youtube/i1a8_UGWEUg.txt`
