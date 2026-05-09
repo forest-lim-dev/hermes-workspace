@@ -216,3 +216,11 @@
 - [processed-non-strategy] YT-04 슈퍼트레이더 — 소액 계좌 성장 방법 — `research/non_strategy/small-account-risk-journal-edge-overlay.md`
 - [processed-non-strategy] YT-01 대왕개미 홍인기 — 평범한 주부를 돈벌게 해준 주식매매 2가지 원칙 — 보조 근거로 `research/non_strategy/small-account-risk-journal-edge-overlay.md`에 반영
 - [raw] YouTube transcripts saved — `data/raw_transcripts/youtube/Z1k_H6xpejs.txt`, `data/raw_transcripts/youtube/sLquQu2DKo4.txt`, `data/raw_transcripts/youtube/HDBwFo_oVgI.txt`, `data/raw_transcripts/youtube/3AQYrIAv01s.txt`, `data/raw_transcripts/youtube/i1a8_UGWEUg.txt`
+
+### 2026-05-10 배치 처리
+- [processed] YT-01 대왕개미 홍인기 — The stock market crash focused solely on this stock — `strategies/daytrading/054_crash-relative-strength-leader-pullback-overnight.md`
+- [processed-non-strategy] YT-01 대왕개미 홍인기 — 고점돌파 코스피, 중동전쟁 한국시장 영향 — `research/non_strategy/kospi-liquidity-gapdown-regime-filter.md`
+- [processed] YT-02 코인독학 — 두달간 무일푼 → 2억 만든 스윙 매매법 — `strategies/daytrading/055_hull89-200-adx-1h-trend-swing.md`
+- [processed] YT-02 코인독학 — 매물대 매매법 — `strategies/daytrading/056_supply-demand-box-rr-filter-breakout-reversal.md`
+- [processed] YT-03 차트슈타인 — 이동평균+거래량 통합/VWAP 매매법 — `strategies/daytrading/057_vwap-volume-breakout-meanreversion-anchored.md`
+- [raw] YouTube transcripts saved — `data/raw_transcripts/youtube/B6OOEglWIcQ.txt`, `data/raw_transcripts/youtube/pHoHR9rvo78.txt`, `data/raw_transcripts/youtube/zFwPFO5ETWU.txt`, `data/raw_transcripts/youtube/3hStNgEnHXc.txt`, `data/raw_transcripts/youtube/mGpwO_XD1e0.txt`
