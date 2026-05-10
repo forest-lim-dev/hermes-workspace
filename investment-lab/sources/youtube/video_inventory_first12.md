@@ -224,3 +224,12 @@
 - [processed] YT-02 코인독학 — 매물대 매매법 — `strategies/daytrading/056_supply-demand-box-rr-filter-breakout-reversal.md`
 - [processed] YT-03 차트슈타인 — 이동평균+거래량 통합/VWAP 매매법 — `strategies/daytrading/057_vwap-volume-breakout-meanreversion-anchored.md`
 - [raw] YouTube transcripts saved — `data/raw_transcripts/youtube/B6OOEglWIcQ.txt`, `data/raw_transcripts/youtube/pHoHR9rvo78.txt`, `data/raw_transcripts/youtube/zFwPFO5ETWU.txt`, `data/raw_transcripts/youtube/3hStNgEnHXc.txt`, `data/raw_transcripts/youtube/mGpwO_XD1e0.txt`
+
+### 2026-05-11 배치 처리
+- [processed] YT-04 슈퍼트레이더 — This short-term trading method will change your life in just one hour a day — `strategies/daytrading/058_9am-liquidity-sweep-fvg-demand-zone-scalp.md`
+- [processed] YT-01 대왕개미 홍인기 — 상위1%는 주식 이렇게 매매합니다 — `strategies/daytrading/059_leader-market-selloff-split-buy-nextday-reaction.md`
+- [processed] YT-01 대왕개미 홍인기 — 월억 달성 주부 트레이더 — `strategies/daytrading/060_limitup-nextday-sub10-gap-vi-momentum-scalp.md`
+- [processed-non-strategy] YT-03 차트슈타인 — 인도 전업투자자의 매수 타이밍 / 스토리 피벗·900만주 거래량 — `research/non_strategy/story-pivot-900man-volume-swing-filter.md`
+- [raw-duplicate] YT-03 차트슈타인 — Day Trading of Madness — 기존 `014_ma-compression-obvx-scalping.md`로 처리된 컨텐츠의 원문 보강 `data/raw_transcripts/youtube/Wly-gUZy_i0.txt`
+- [raw-deferred] YT-04 슈퍼트레이더 — 3 moving averages / Kullamaggie — `data/raw_transcripts/youtube/HfrlrYC0s74.txt`; 기존 MA stage/VCP 문서와 중복성 있어 보류.
+- [raw] YouTube transcripts saved — `data/raw_transcripts/youtube/pGg_JBGLbdI.txt`, `data/raw_transcripts/youtube/vEkhi01pxvo.txt`, `data/raw_transcripts/youtube/l-xP8kN7zxQ.txt`, `data/raw_transcripts/youtube/n6rHHNBh0go.txt`, `data/raw_transcripts/youtube/Wly-gUZy_i0.txt`, `data/raw_transcripts/youtube/HfrlrYC0s74.txt`
