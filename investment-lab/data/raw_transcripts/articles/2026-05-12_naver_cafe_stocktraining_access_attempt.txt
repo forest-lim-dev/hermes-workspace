@@ -1,0 +1,22 @@
+URL: https://naver.me/G6Z9YBCh?tc=shared_link
+Resolved URL: https://cafe.naver.com/stocktraining
+Collected: 2026-05-12
+Status: public cafe landing page accessible; article list pages return Next.js loading shell without article bodies in non-login fetch.
+
+Detected cafe: 나는주식트레이더다 (대한민국 TOP 주식 트레이더들의 커뮤니티)
+Detected target boards from public menu:
+- 188 나주다 스캘/돌파매매
+- 191 나주다 눌림목 매매
+- 195 기타 트레이딩관점
+- 30 주식투자Q&A
+
+Access attempts:
+- https://cafe.naver.com/ArticleList.nhn?search.clubid=29798500&search.menuid=188&search.boardtype=L
+- https://cafe.naver.com/ArticleList.nhn?search.clubid=29798500&search.menuid=191&search.boardtype=L
+- https://cafe.naver.com/ArticleList.nhn?search.clubid=29798500&search.menuid=195&search.boardtype=L
+- https://cafe.naver.com/ArticleList.nhn?search.clubid=29798500&search.menuid=30&search.boardtype=L
+
+Result:
+- Board titles were publicly discoverable.
+- Article titles/body were not extracted from public HTTP fetch; page showed loading shell and likely requires browser-side Naver Cafe APIs/login/member permissions.
+- No bypass attempted. Future collection requires public article URLs, logged-in/member-authorized browsing by user, or an exported article list.

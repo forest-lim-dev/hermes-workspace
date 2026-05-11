@@ -53,3 +53,11 @@
   - [Lessons from a $140K loss](https://qullamaggie.com/lessons-from-a-140k-loss/)
   - [The Rate of Return on Everything](https://qullamaggie.com/the-rate-of-return-on-everything/)
   - [Different stages and types of a company](https://qullamaggie.com/different-stages-and-types-of-a-company/)
+
+## 처리 이력
+
+### 2026-05-12 배치 처리
+- [processed] AR-05 Investors Underground — Free Video Scan, Week of May 4 2026 — `strategies/daytrading/061_pullback-consolidation-reclaim-liquidity-trap-continuation.md`
+- [processed] AR-05 Investors Underground — Free Video Scan, Week of April 27 2026 — `strategies/daytrading/062_new-high-breakout-sector-leader-consolidation-expansion.md`
+- [raw] Article raw extracts saved — `data/raw_transcripts/articles/2026-05-12_iu_free_scan_may_04_2026.txt`, `data/raw_transcripts/articles/2026-05-12_iu_free_scan_april_27_2026.txt`
+- [access-attempt] Naver Cafe 나는주식트레이더다 — board names visible, article titles/body not extractable from non-login HTTP fetch — `data/raw_transcripts/articles/2026-05-12_naver_cafe_stocktraining_access_attempt.txt`
