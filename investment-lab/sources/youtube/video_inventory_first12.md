@@ -233,3 +233,9 @@
 - [raw-duplicate] YT-03 차트슈타인 — Day Trading of Madness — 기존 `014_ma-compression-obvx-scalping.md`로 처리된 컨텐츠의 원문 보강 `data/raw_transcripts/youtube/Wly-gUZy_i0.txt`
 - [raw-deferred] YT-04 슈퍼트레이더 — 3 moving averages / Kullamaggie — `data/raw_transcripts/youtube/HfrlrYC0s74.txt`; 기존 MA stage/VCP 문서와 중복성 있어 보류.
 - [raw] YouTube transcripts saved — `data/raw_transcripts/youtube/pGg_JBGLbdI.txt`, `data/raw_transcripts/youtube/vEkhi01pxvo.txt`, `data/raw_transcripts/youtube/l-xP8kN7zxQ.txt`, `data/raw_transcripts/youtube/n6rHHNBh0go.txt`, `data/raw_transcripts/youtube/Wly-gUZy_i0.txt`, `data/raw_transcripts/youtube/HfrlrYC0s74.txt`
+
+### 2026-05-13 배치 처리
+- [processed] YT-05 Ross Cameron - Warrior Trading — 3 Stocks Up Over 100% With More Breaking News! — `strategies/daytrading/063_pullback-day1-news-squeeze-curl-retest-scalp.md`
+- [processed] YT-05 Ross Cameron - Warrior Trading — +$21,690.15 on 3 Stocks Up Over 100% TODAY — `strategies/daytrading/064_new-high-breakout-line-in-sand-hod-retest-scalp.md`
+- [raw] YouTube transcripts saved — `data/raw_transcripts/youtube/9Q48uYDUPjg.txt`, `data/raw_transcripts/youtube/TV3rb-Tl_kM.txt`, `data/raw_transcripts/youtube/TZkQiVOR5vc.txt`, `data/raw_transcripts/youtube/B_6yuh7YY2g.txt`
+- [raw-deferred] YT-05 Ross Cameron - Warrior Trading — Here we go! Another Short Squeeze!, 400% Short Squeeze?!?! No, 800% is Better! — short squeeze/halt risk 보강 후보로 원문만 저장.
