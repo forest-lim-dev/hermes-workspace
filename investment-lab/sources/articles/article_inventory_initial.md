@@ -61,3 +61,6 @@
 - [processed] AR-05 Investors Underground — Free Video Scan, Week of April 27 2026 — `strategies/daytrading/062_new-high-breakout-sector-leader-consolidation-expansion.md`
 - [raw] Article raw extracts saved — `data/raw_transcripts/articles/2026-05-12_iu_free_scan_may_04_2026.txt`, `data/raw_transcripts/articles/2026-05-12_iu_free_scan_april_27_2026.txt`
 - [access-attempt] Naver Cafe 나는주식트레이더다 — board names visible, article titles/body not extractable from non-login HTTP fetch — `data/raw_transcripts/articles/2026-05-12_naver_cafe_stocktraining_access_attempt.txt`
+
+### 2026-05-14 배치 처리
+- [access-attempt] Naver Cafe 나는주식트레이더다 — 비로그인 HTTP 재확인. 카페 메인/게시판명은 수신되나 공개 게시글 제목/본문은 안정 추출 불가 — `data/raw_transcripts/articles/2026-05-14_naver_cafe_stocktraining_access_attempt.txt`

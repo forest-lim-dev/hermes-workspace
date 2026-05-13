@@ -239,3 +239,8 @@
 - [processed] YT-05 Ross Cameron - Warrior Trading — +$21,690.15 on 3 Stocks Up Over 100% TODAY — `strategies/daytrading/064_new-high-breakout-line-in-sand-hod-retest-scalp.md`
 - [raw] YouTube transcripts saved — `data/raw_transcripts/youtube/9Q48uYDUPjg.txt`, `data/raw_transcripts/youtube/TV3rb-Tl_kM.txt`, `data/raw_transcripts/youtube/TZkQiVOR5vc.txt`, `data/raw_transcripts/youtube/B_6yuh7YY2g.txt`
 - [raw-deferred] YT-05 Ross Cameron - Warrior Trading — Here we go! Another Short Squeeze!, 400% Short Squeeze?!?! No, 800% is Better! — short squeeze/halt risk 보강 후보로 원문만 저장.
+
+### 2026-05-14 배치 처리
+- [processed] YT-05 Ross Cameron - Warrior Trading — 400% Short Squeeze?!?! No, 800% is Better! — `strategies/daytrading/065_pullback-short-squeeze-vwap-reclaim-risk-gated-scalp.md`
+- [processed] YT-05 Ross Cameron - Warrior Trading — Here we go! Another Short Squeeze! — `strategies/daytrading/066_new-high-breakout-news-squeeze-cup-handle-hod-scalp.md`
+- [raw-reused] YouTube transcripts from 2026-05-13 — `data/raw_transcripts/youtube/B_6yuh7YY2g.txt`, `data/raw_transcripts/youtube/TZkQiVOR5vc.txt`
