@@ -1,6 +1,6 @@
 # 신고점돌파매매 자동화 리서치 통합 노트
 
-업데이트: 2026-05-14
+업데이트: 2026-05-15
 
 ## 핵심 결론
 - 신고점돌파는 “고점 초과” 자체보다 `선행 리더십 + 압축/균형 + 거래량 확장 + 종가 유지 + 섹터 동조`의 조합으로 정의할 때 자동화 가능성이 높습니다.
@@ -25,6 +25,10 @@
    - 9:00am breaking news로 market-wide leading gainer가 된 종목의 cup-and-handle/round-number pivot 돌파를 신고점돌파로 정의.
    - `day_gain_pct >= 100`, `price > VWAP`, `breakout_volume_ratio >= 1.5`, `1m close hold` 조합이 기본 자동화 후보.
    - 정규장 이후 halt/stop/market order가 만든 1분 과대 swing은 수익 기회와 별개로 자동매매 금지 또는 size 축소 필터로 둠.
+6. Ross Cameron 2026-05-15 신규 문서(`067`, `068`, `069`)
+   - 신고점돌파 후보는 fresh catalyst와 공시/매도물량 리스크를 먼저 걸러야 하며, 뉴스 없는 leading gainer 또는 buy rating/placement agent 충돌은 제외.
+   - D1 대비 volume decay가 큰 D3+ continuation은 고점을 높여도 spread/slippage가 커져 breakout edge가 약해지는 no-trade regime.
+   - 과거 대형 catalyst memory가 있는 종목은 daily resistance ladder를 기준으로 돌파 후 pullback-curl을 기다려 다음 level까지의 짧은 확장을 노림.
 
 ## 신고점 범위 정의 후보
 - `intraday_high_break`: 당일 고점 돌파.
@@ -46,6 +50,12 @@
 - `upper_wick_ratio`: 윗꼬리 / 전체 range. 40% 이하 후보.
 - `topping_tail_cluster`: 최근 5개 1분봉 중 윗꼬리 40~50% 이상 봉 개수.
 - `crowded_proxy`: 누적 거래량/유통주식수, bid-ask spread 변화, 1분 ATR 증가율.
+- `fresh_catalyst_score`: 신규성·실질성·재탕 여부·공시 충돌을 합산한 뉴스 품질 점수.
+- `offering_conflict_score`: shelf/offering/CB/유증/재단 unlock 등 매도물량 리스크 점수.
+- `catalyst_day_index`: D1/D2/D3+ 돌파 성능 분리용 이벤트 일자.
+- `volume_decay_ratio`: D1 동시간 대비 현재 거래량 유지율.
+- `daily_level_ladder`: 과거 daily resistance와 round number를 정렬한 목표·저항 배열.
+- `jack_knife_candle`: 고점 돌파 후 긴 양방향 wick이 생기는 변동성 과열 신호.
 - `sector_rs`: 섹터 ETF 또는 테마 바스켓의 당일/20일 상대강도.
 - `leader_rank`: 테마 내 거래대금·수익률 순위.
 
@@ -58,6 +68,9 @@
 - HOD 직전 돌파 시도에서 topping tail이 반복되고 종가가 기준선 위에 남지 못함.
 - 정규장 개장 직후 stop/market order/halt level로 1분봉 range가 손절 허용폭을 초과.
 - 돌파 후 add 가격 위에서 즉시 stall하고 tape가 붙지 못하면 starter만 남기거나 청산.
+- 뉴스 부재, 재탕 follow-up, buy rating/placement agent 충돌 등 `fresh_catalyst_score`가 낮은 급등주는 제외.
+- D3+ volume decay continuation에서 spread/slippage가 커지는 경우 고점 돌파라도 no-trade.
+- daily level 바로 아래에서 진입해 다음 저항까지 R/R 1.0 미만이면 제외.
 
 ## 백테스트 우선순위
 1. A급: 20일 박스 상단 돌파 + ATR 압축 + 거래량 2배 + 섹터 VWAP 상방.
@@ -67,6 +80,9 @@
 5. C: 옵션 flow/뉴스 narrative 점수화. 데이터 확보 난이도 높음.
 6. A: 당일 +100% leading gainer의 HOD 직전 `line_in_sand` 돌파 + 거래량 1.5배 + topping tail cluster 없음. 선행 진입형과 1분봉 종가 확인형을 비교.
 7. A: 9:00am news squeeze + cup-and-handle/round-number pivot 돌파 + VWAP 상방 + manageable 1m ATR. 장전 구간과 정규장 halt-risk 구간을 분리 테스트.
+8. B+: fresh catalyst score와 offering/shelf conflict score를 결합해 뉴스 없는 leading gainer·이해상충 buy rating의 false breakout 감소 효과 검증.
+9. A-: `catalyst_day_index`와 `volume_decay_ratio` 기반 D1 vs D3+ 신고점돌파 기대값 비교.
+10. A-: historical catalyst memory + daily level ladder + pullback-curl 후 다음 level까지의 base-hit 전략.
 
 ## 후속 검증 질문
 - 국내주식은 20일 고점 돌파보다 전일고점+거래대금 급증이 단타에 더 적합한가?

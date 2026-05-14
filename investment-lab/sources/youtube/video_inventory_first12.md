@@ -244,3 +244,10 @@
 - [processed] YT-05 Ross Cameron - Warrior Trading — 400% Short Squeeze?!?! No, 800% is Better! — `strategies/daytrading/065_pullback-short-squeeze-vwap-reclaim-risk-gated-scalp.md`
 - [processed] YT-05 Ross Cameron - Warrior Trading — Here we go! Another Short Squeeze! — `strategies/daytrading/066_new-high-breakout-news-squeeze-cup-handle-hod-scalp.md`
 - [raw-reused] YouTube transcripts from 2026-05-13 — `data/raw_transcripts/youtube/B_6yuh7YY2g.txt`, `data/raw_transcripts/youtube/TZkQiVOR5vc.txt`
+
+### 2026-05-15 배치 처리
+- [processed] YT-05 Ross Cameron - Warrior Trading — +$2,306.80 Trading Leading Percentage Gainers — `strategies/daytrading/067_new-high-breakout-catalyst-quality-heavy-seller-filter.md`
+- [processed] YT-05 Ross Cameron - Warrior Trading — Holding the line... — `strategies/daytrading/068_pullback-breakout-day1-volume-decay-no-trade-filter.md`
+- [processed] YT-05 Ross Cameron - Warrior Trading — Prediction Markets Catalyst Sends Stock Up Over 100% — `strategies/daytrading/069_new-high-breakout-daily-level-catalyst-curl-pullback-scalp.md`
+- [raw] YouTube transcripts saved — `data/raw_transcripts/youtube/hrZJKJ9NGbk.txt`, `data/raw_transcripts/youtube/POMf8yNOhk4.txt`, `data/raw_transcripts/youtube/CVBv8tPpyxA.txt`
+- [raw-deferred] Ross Cameron 후보 원문 저장 — `data/raw_transcripts/youtube/1g4FOzXvlpw.txt`, `data/raw_transcripts/youtube/T_EgRZO3IkM.txt`, `data/raw_transcripts/youtube/cnoJ9DkWPVM.txt`

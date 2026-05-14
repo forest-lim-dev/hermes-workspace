@@ -64,3 +64,6 @@
 
 ### 2026-05-14 배치 처리
 - [access-attempt] Naver Cafe 나는주식트레이더다 — 비로그인 HTTP 재확인. 카페 메인/게시판명은 수신되나 공개 게시글 제목/본문은 안정 추출 불가 — `data/raw_transcripts/articles/2026-05-14_naver_cafe_stocktraining_access_attempt.txt`
+
+### 2026-05-15 배치 처리
+- [access-attempt] Naver Cafe 나는주식트레이더다 — 비로그인 HTTP 재확인. HTTP 200으로 카페 HTML은 수신되나 이번 요청에서는 게시판명 문자열도 본문 샘플에서 확인되지 않았고 공개 게시글 제목/본문 추출 불가 — `data/raw_transcripts/articles/2026-05-15_naver_cafe_stocktraining_access_attempt.txt`

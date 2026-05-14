@@ -1,6 +1,6 @@
 # 눌림목매매 자동화 리서치 통합 노트
 
-업데이트: 2026-05-14
+업데이트: 2026-05-15
 
 ## 핵심 결론
 - 눌림목은 “싸게 보이는 하락”이 아니라, 선행 상승·테마 강도·거래량 감소·구조 유지가 동시에 충족되는 일시적 재고 조정으로 정의해야 합니다.
@@ -25,6 +25,10 @@
    - breaking news + low float + float turnover 급증 종목이 첫 급등 후 VWAP를 reclaim하고 짧은 handle/pullback을 만들 때만 눌림 인정.
    - 눌림 구조는 `impulse → 20~60% retrace → VWAP reclaim 또는 minor pivot break → round/HOD 방향 확장`으로 정량화.
    - false breakout 후 거래량 급증·윗꼬리 50% 이상, 200MA 직하단, halt 이후 1분 range가 손절폭을 넘는 구간은 진입 금지.
+6. Ross Cameron 2026-05-15 신규 문서(`068`, `069`)
+   - D1 뉴스/첫 급등일의 float rotation이 가장 clean한 눌림을 만들며, D3+ continuation은 가격 상승에도 volume decay·spread 확대가 있으면 눌림 후보에서 제외.
+   - 과거 대형 catalyst 기억이 있는 종목은 daily level 돌파 뒤 15~45% 짧은 pullback-curl을 기다려 다음 level까지의 base hit만 노림.
+   - jack-knife candle, topping tail cluster, easy-to-borrow/float 증가 이후 cushion 없는 추격은 눌림 재상승보다 실패 패턴으로 분류.
 
 ## 자동매매 변수 후보
 - `impulse_pct`: 직전 1~5일 또는 장중 상승폭. 후보 기준 20% 이상.
@@ -40,6 +44,11 @@
 - `float_turnover`: 누적 거래량 / 유통주식수. short squeeze 눌림에서는 1배 이상 최소, 3배 이상 강한 조건 후보.
 - `short_pressure_proxy`: easy-to-borrow 후 담보율 상승, 대차/공매도/청산 데이터, 또는 코인 short liquidation spike.
 - `false_breakout_wick_ratio`: 새 고점 직후 윗꼬리 / 전체 range. 50% 이상이면 다음 눌림은 확인형만 허용.
+- `catalyst_day_index`: 뉴스/첫 급등일을 D1으로 두고 D2/D3+ continuation을 분리.
+- `volume_decay_ratio`: 오늘 동시간 누적거래량 / D1 동시간 누적거래량. 0.5 미만이면 no-trade 후보.
+- `daily_level_ladder`: 과거 고점·저항·round number를 정렬한 다음 목표/저항 배열.
+- `curl_trigger`: pullback high 재돌파 + 10초/1분 bid follow-through.
+- `jack_knife_candle`: 긴 양방향 wick 또는 급등·급락이 한 봉에 동시에 나타나는 변동성 위험 신호.
 - `theme_rank`: 동일 테마 내 거래대금/등락률 순위.
 - `market_filter`: 지수 또는 섹터 ETF의 5분 VWAP 상방 여부.
 
@@ -56,6 +65,8 @@
 4. C: 뉴스 품질/negative catalyst 필터. 텍스트 데이터 품질에 의존.
 5. A-: Day-1 뉴스 + 100%급 leading gainer + 2~5개 1분봉 pullback + round/half-dollar curl 진입. 큰 손실 outlier 필터를 함께 테스트.
 6. A-: breaking news + float turnover 1~3배 이상 + VWAP reclaim 눌림. 200MA 저항·false breakout wick·halt range 필터의 outlier 감소 효과를 우선 검증.
+7. A-: D1 뉴스주 pullback과 D3+ volume decay continuation을 분리해, `volume_decay_ratio < 0.5` 필터가 손실/슬리피지 outlier를 줄이는지 검증.
+8. A-: 과거 대형 catalyst memory + daily level ladder + 15~45% pullback-curl 진입. daily level까지 남은 R/R 1.5 이상 조건을 우선 테스트.
 
 ## 후속 검증 질문
 - VWAP reclaim 단독 vs reclaim 후 minor high 재돌파 확인 중 기대값이 높은 방식은 무엇인가?
