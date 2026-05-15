@@ -1,6 +1,6 @@
 # 눌림목매매 자동화 리서치 통합 노트
 
-업데이트: 2026-05-15
+업데이트: 2026-05-16
 
 ## 핵심 결론
 - 눌림목은 “싸게 보이는 하락”이 아니라, 선행 상승·테마 강도·거래량 감소·구조 유지가 동시에 충족되는 일시적 재고 조정으로 정의해야 합니다.
@@ -29,6 +29,10 @@
    - D1 뉴스/첫 급등일의 float rotation이 가장 clean한 눌림을 만들며, D3+ continuation은 가격 상승에도 volume decay·spread 확대가 있으면 눌림 후보에서 제외.
    - 과거 대형 catalyst 기억이 있는 종목은 daily level 돌파 뒤 15~45% 짧은 pullback-curl을 기다려 다음 level까지의 base hit만 노림.
    - jack-knife candle, topping tail cluster, easy-to-borrow/float 증가 이후 cushion 없는 추격은 눌림 재상승보다 실패 패턴으로 분류.
+7. Ross Cameron 2026-05-16 신규 문서(`070`, `071`)
+   - VWAP reclaim·micro pullback이 보여도 `regained compliance`/reverse split 같은 약한 catalyst, 두꺼운 ask refill, HOD double top 위험이 있으면 `trap curl`로 분류해 진입 금지.
+   - scanner 첫 pop 직후 추격하지 않고 1~2분 dust-settle 뒤 base low, top-gainer 유지, higher low, 거래량 follow-through를 확인.
+   - hot regime에서는 첫 micro pullback 허용 폭을 넓히되, cooler/cautious regime에서는 pop-hold-obvious 조건이 없으면 눌림으로 인정하지 않음.
 
 ## 자동매매 변수 후보
 - `impulse_pct`: 직전 1~5일 또는 장중 상승폭. 후보 기준 20% 이상.
@@ -49,6 +53,12 @@
 - `daily_level_ladder`: 과거 고점·저항·round number를 정렬한 다음 목표/저항 배열.
 - `curl_trigger`: pullback high 재돌파 + 10초/1분 bid follow-through.
 - `jack_knife_candle`: 긴 양방향 wick 또는 급등·급락이 한 봉에 동시에 나타나는 변동성 위험 신호.
+- `news_quality_score`: 뉴스 신규성·실질성·숫자/계약 여부·방어적 공시 여부를 0~3점화.
+- `trap_curl`: VWAP reclaim/재상승이 있으나 약한 catalyst와 두꺼운 매도호가로 HOD 직전 실패할 확률이 높은 패턴.
+- `ask_refill_ratio`: breakout 직전 ask 잔량이 체결 후 재충전되는 강도. hidden seller proxy.
+- `attention_concentration_index`: top 10 scanner 종목 중 1위 또는 penny-stock group이 차지하는 거래량 비중.
+- `scanner_obviousness`: 당일 상승률, top-gainer rank, 거래량, 가격대 sweet spot을 합산한 시장 관심 점수.
+- `dust_settle_base`: 첫 pop 이후 1~2분 관찰 구간에서 형성된 구조적 저점/횡보 구간.
 - `theme_rank`: 동일 테마 내 거래대금/등락률 순위.
 - `market_filter`: 지수 또는 섹터 ETF의 5분 VWAP 상방 여부.
 
@@ -67,6 +77,8 @@
 6. A-: breaking news + float turnover 1~3배 이상 + VWAP reclaim 눌림. 200MA 저항·false breakout wick·halt range 필터의 outlier 감소 효과를 우선 검증.
 7. A-: D1 뉴스주 pullback과 D3+ volume decay continuation을 분리해, `volume_decay_ratio < 0.5` 필터가 손실/슬리피지 outlier를 줄이는지 검증.
 8. A-: 과거 대형 catalyst memory + daily level ladder + 15~45% pullback-curl 진입. daily level까지 남은 R/R 1.5 이상 조건을 우선 테스트.
+9. A-: VWAP reclaim 눌림 중 `news_quality_score <= 1` 또는 `ask_refill_ratio` 상위 구간을 제외했을 때 손실 outlier 감소 효과.
+10. A: scanner 첫 pop 이후 `dust_settle_base` + top-gainer rank 유지 + 35~65% retrace 조건의 첫 눌림 성과를 즉시 추격과 비교.
 
 ## 후속 검증 질문
 - VWAP reclaim 단독 vs reclaim 후 minor high 재돌파 확인 중 기대값이 높은 방식은 무엇인가?

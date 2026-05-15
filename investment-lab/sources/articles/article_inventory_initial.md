@@ -67,3 +67,6 @@
 
 ### 2026-05-15 배치 처리
 - [access-attempt] Naver Cafe 나는주식트레이더다 — 비로그인 HTTP 재확인. HTTP 200으로 카페 HTML은 수신되나 이번 요청에서는 게시판명 문자열도 본문 샘플에서 확인되지 않았고 공개 게시글 제목/본문 추출 불가 — `data/raw_transcripts/articles/2026-05-15_naver_cafe_stocktraining_access_attempt.txt`
+
+### 2026-05-16 배치 처리
+- [access-attempt] Naver Cafe 나는주식트레이더다 — 비로그인 HTTP 재확인. HTTP 200, 최종 URL `https://cafe.naver.com/stocktraining`, cp949 디코딩 후 `나주다 스캘/돌파매매`, `나주다 눌림목 매매`, `기타 트레이딩관점`, `주식투자Q&A` 게시판명은 확인. 다만 공개 HTML에서 article id/게시글 제목/본문은 추출되지 않아 전략 원문으로 사용 불가 — `data/raw_transcripts/articles/2026-05-16_naver_cafe_stocktraining_access_attempt.txt`

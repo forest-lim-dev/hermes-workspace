@@ -1,0 +1,1153 @@
+Access attempt: https://naver.me/G6Z9YBCh?tc=shared_link
+Status: 200
+Final URL: https://cafe.naver.com/stocktraining
+Encoding decode: cp949 with replacement
+Checks: {'나주다 스캘': 136700, '나주다 눌림목': 139249, '눌림목': 139253, '돌파매매': 136707, '기타 트레이딩관점': 142653, '주식투자Q&A': 144655, 'ArticleList': 54766, 'menuLink': 54858}
+Article IDs found in public HTML sample: []
+Menu/link texts found: ['전체글보기', '공지사항', '이미지모아보기', '동영상모아보기', '자유게시판', '주식관련자유게시판', '전체글보기', '인기글', '👑100억 수익 인증', '❤️감동의 월결산', '월 10억 원↑', '월 1억 원↑', '월 3,000만 원↑', '월 1,000만 원↑', '주간/월말/분기/년간 결산', '일별 수익 인증', '2026 미모사 강사칼럼', '2026 여름학기 수강신청', '✏️나주다스쿨 바로가기', '💬나주다스쿨 카카오톡', '공지사항', '가입인사 및 등업', '출석부', '오늘의 시황/이슈 종목', '뉴스/특징주/일정/공시', '지니어스G(모닝브리핑)', '돌팬티(장전시황)', '레드니케(오전특징주)', '디선(당일특징주)', '손절남', '나주다 스캘/돌파매매', '나주다 종가베팅', '나주다 ABCD매매', '나주다 눌림목 매매', '나주다 상한가따라잡기', '기관/외국인 수급매매', '나주다 스윙 매매일지', '기타 트레이딩관점', '주식관련자유게시판', '주식투자Q&A', '조건검색식/수식자료', 'HTS노하우/묻고답하기', 'MTS노하우/묻고답하기', '트레이딩룸 소개', '트레이딩룸 Q&A', '초보자에게전하고싶은', '초보자가하고싶은이야기', '주식에미친사람들', '나주다 종목 분석', '나주다 관심종목', '나주다 스윙/중장기 매매', '100일의 도전', '자유게시판', '유머게시판', '음식/맛집/여행 이야기', '영화/음악 이야기', '나주다 당근마켓', '드림로드', '드림로드 강의후기', '돌팬티', '무릎이', '리버스페스', '침착해', '방배동선수', '무드', '만쥬', '트레이더김씨', '바른다른', '고라니주식', '해적선대장', '이든EDN', '아프리카트레이다', '주포와함께춤을', '날좋은날에', 'T98', '유진투자 대회 매매일지[종료]', '(랜덤박스이벤트)유진실투 참가 인증[종료]', '🎁2025나카친 이벤트[종료]', '🎁마우스/패드 수령 후기[종료]', '🎯매매일지 챌린지[종료]']
+
+--- snippet around 나주다 스캘 @ 136700 ---
+
+			
+				
+			
+				
+			
+			
+				
+			
+				
+				
+				<li>
+					
+						<img src="https://cafe.pstatic.net/cafe4/hidden.gif" width="10" height="11" class="ico-indent" alt="">
+					
+					<img src="https://cafe.pstatic.net/cafe4/hidden.gif" width="10" height="11" class="ico-list" alt="">
+					
+						
+							<a href="/ArticleList.nhn?search.clubid=29798500&search.menuid=188&search.boardtype=L"  onclick="goMenu('188');clickcr(this, 'mnu.normal','','',event);" class="gm-tcol-c " id="menuLink188">
+								나주다 스캘/돌파매매
+							</a>
+						
+						
+					
+					
+						
+							
+							<img src="https://ssl.pstatic.net/static/cafe/cafe_pc/ico_new.png" width="12" height="12" class="ico_new" alt="새 게시글"><script type="text/javascript">showGroupNewImage("groupnewimg222");</script>
+						
+						
+					
+				</li>
+			
+			
+			
+			
+				
+				
+
+				
+			
+				
+			
+
+			
+				
+			
+				
+			
+				
+			
+			
+				
+			
+				
+				
+				<li>
+					
+						<img src="https://cafe.pstatic.net/cafe4/hidden.gif" width="10" height="11" class="ico-indent" alt="">
+					
+					<img src="https://cafe.pstatic.net/cafe4/hidden.gif" width="10" height="11" class="ico-list" alt="">
+					
+						
+							<a href="/ArticleList.nhn?search.clubid=29798500&search.menuid=190&search.boardtype=L"  onclick="goMenu('190');clickcr(this, 'mnu.normal','','',event);" class="gm-tcol-c " id="menuLink190">
+								나주다 종가베팅
+							</a>
+						
+						
+					
+					
+						
+							
+							<img src="https://ssl.pstatic.net/static/cafe/cafe_pc/ico_new.png" width="12" he
+
+--- snippet around 나주다 눌림목 @ 139249 ---
+
+			
+				
+			
+				
+			
+			
+				
+			
+				
+				
+				<li>
+					
+						<img src="https://cafe.pstatic.net/cafe4/hidden.gif" width="10" height="11" class="ico-indent" alt="">
+					
+					<img src="https://cafe.pstatic.net/cafe4/hidden.gif" width="10" height="11" class="ico-list" alt="">
+					
+						
+							<a href="/ArticleList.nhn?search.clubid=29798500&search.menuid=191&search.boardtype=L"  onclick="goMenu('191');clickcr(this, 'mnu.normal','','',event);" class="gm-tcol-c " id="menuLink191">
+								나주다 눌림목 매매
+							</a>
+						
+						
+					
+					
+						
+							
+							<img src="https://ssl.pstatic.net/static/cafe/cafe_pc/ico_new.png" width="12" height="12" class="ico_new" alt="새 게시글"><script type="text/javascript">showGroupNewImage("groupnewimg222");</script>
+						
+						
+					
+				</li>
+			
+			
+			
+			
+				
+				
+
+				
+			
+				
+			
+
+			
+				
+			
+				
+			
+				
+			
+			
+				
+			
+				
+				
+				<li>
+					
+						<img src="https://cafe.pstatic.net/cafe4/hidden.gif" width="10" height="11" class="ico-indent" alt="">
+					
+					<img src="https://cafe.pstatic.net/cafe4/hidden.gif" width="10" height="11" class="ico-list" alt="">
+					
+						
+							<a href="/ArticleList.nhn?search.clubid=29798500&search.menuid=241&search.boardtype=L"  onclick="goMenu('241');clickcr(this, 'mnu.normal','','',event);" class="gm-tcol-c " id="menuLink241">
+								나주다 상한가따라잡기
+							</a>
+						
+						
+					
+					
+						
+							
+							<img src="https://ssl.pstatic.net/static/cafe/cafe_pc/ico_new.png" width="12" 
+
+--- snippet around 눌림목 @ 139253 ---
+
+				
+			
+				
+			
+			
+				
+			
+				
+				
+				<li>
+					
+						<img src="https://cafe.pstatic.net/cafe4/hidden.gif" width="10" height="11" class="ico-indent" alt="">
+					
+					<img src="https://cafe.pstatic.net/cafe4/hidden.gif" width="10" height="11" class="ico-list" alt="">
+					
+						
+							<a href="/ArticleList.nhn?search.clubid=29798500&search.menuid=191&search.boardtype=L"  onclick="goMenu('191');clickcr(this, 'mnu.normal','','',event);" class="gm-tcol-c " id="menuLink191">
+								나주다 눌림목 매매
+							</a>
+						
+						
+					
+					
+						
+							
+							<img src="https://ssl.pstatic.net/static/cafe/cafe_pc/ico_new.png" width="12" height="12" class="ico_new" alt="새 게시글"><script type="text/javascript">showGroupNewImage("groupnewimg222");</script>
+						
+						
+					
+				</li>
+			
+			
+			
+			
+				
+				
+
+				
+			
+				
+			
+
+			
+				
+			
+				
+			
+				
+			
+			
+				
+			
+				
+				
+				<li>
+					
+						<img src="https://cafe.pstatic.net/cafe4/hidden.gif" width="10" height="11" class="ico-indent" alt="">
+					
+					<img src="https://cafe.pstatic.net/cafe4/hidden.gif" width="10" height="11" class="ico-list" alt="">
+					
+						
+							<a href="/ArticleList.nhn?search.clubid=29798500&search.menuid=241&search.boardtype=L"  onclick="goMenu('241');clickcr(this, 'mnu.normal','','',event);" class="gm-tcol-c " id="menuLink241">
+								나주다 상한가따라잡기
+							</a>
+						
+						
+					
+					
+						
+							
+							<img src="https://ssl.pstatic.net/static/cafe/cafe_pc/ico_new.png" width="12" heig
+
+--- snippet around 돌파매매 @ 136707 ---
+		
+			
+				
+			
+			
+				
+			
+				
+				
+				<li>
+					
+						<img src="https://cafe.pstatic.net/cafe4/hidden.gif" width="10" height="11" class="ico-indent" alt="">
+					
+					<img src="https://cafe.pstatic.net/cafe4/hidden.gif" width="10" height="11" class="ico-list" alt="">
+					
+						
+							<a href="/ArticleList.nhn?search.clubid=29798500&search.menuid=188&search.boardtype=L"  onclick="goMenu('188');clickcr(this, 'mnu.normal','','',event);" class="gm-tcol-c " id="menuLink188">
+								나주다 스캘/돌파매매
+							</a>
+						
+						
+					
+					
+						
+							
+							<img src="https://ssl.pstatic.net/static/cafe/cafe_pc/ico_new.png" width="12" height="12" class="ico_new" alt="새 게시글"><script type="text/javascript">showGroupNewImage("groupnewimg222");</script>
+						
+						
+					
+				</li>
+			
+			
+			
+			
+				
+				
+
+				
+			
+				
+			
+
+			
+				
+			
+				
+			
+				
+			
+			
+				
+			
+				
+				
+				<li>
+					
+						<img src="https://cafe.pstatic.net/cafe4/hidden.gif" width="10" height="11" class="ico-indent" alt="">
+					
+					<img src="https://cafe.pstatic.net/cafe4/hidden.gif" width="10" height="11" class="ico-list" alt="">
+					
+						
+							<a href="/ArticleList.nhn?search.clubid=29798500&search.menuid=190&search.boardtype=L"  onclick="goMenu('190');clickcr(this, 'mnu.normal','','',event);" class="gm-tcol-c " id="menuLink190">
+								나주다 종가베팅
+							</a>
+						
+						
+					
+					
+						
+							
+							<img src="https://ssl.pstatic.net/static/cafe/cafe_pc/ico_new.png" width="12" height="1
+
+--- snippet around 기타 트레이딩관점 @ 142653 ---
+
+			
+				
+			
+				
+			
+			
+				
+			
+				
+				
+				<li>
+					
+						<img src="https://cafe.pstatic.net/cafe4/hidden.gif" width="10" height="11" class="ico-indent" alt="">
+					
+					<img src="https://cafe.pstatic.net/cafe4/hidden.gif" width="10" height="11" class="ico-list" alt="">
+					
+						
+							<a href="/ArticleList.nhn?search.clubid=29798500&search.menuid=195&search.boardtype=L"  onclick="goMenu('195');clickcr(this, 'mnu.normal','','',event);" class="gm-tcol-c " id="menuLink195">
+								기타 트레이딩관점
+							</a>
+						
+						
+					
+					
+						
+							
+							<img src="https://ssl.pstatic.net/static/cafe/cafe_pc/ico_new.png" width="12" height="12" class="ico_new" alt="새 게시글"><script type="text/javascript">showGroupNewImage("groupnewimg222");</script>
+						
+						
+					
+				</li>
+			
+			
+			
+			
+				
+				
+
+				
+			
+				
+			
+
+			
+				
+			
+			
+			</ul>
+		<div class="cafe-menu-tit">
+			
+				
+				
+					<h3><span class="gm-tcol-t ellipsis" title="나주다 know-how">나주다 know-how</span></h3>
+				
+			
+		</div>
+		
+		<ul class="cafe-menu-list" id="group78" style="">
+		
+			
+				
+			
+				
+			
+			
+				
+			
+			
+			
+			
+				
+				
+
+				
+			
+				
+			
+
+			
+				
+			
+				
+			
+				
+			
+			
+				
+			
+				
+				
+				<li>
+					
+						<img src="https://cafe.pstatic.net/cafe4/hidden.gif" width="10" height="11" class="ico-indent" alt="">
+					
+					<img src="https://cafe.pstatic.net/cafe4/hidden.gif" width="10" height="11" class="ico-list" alt="">
+					
+						
+							<a href="/ArticleList.nhn?search.clubi
+
+--- snippet around 주식투자Q&A @ 144655 ---
+			
+			
+				
+			
+				
+			
+			
+				
+			
+				
+				
+				<li>
+					
+						<img src="https://cafe.pstatic.net/cafe4/hidden.gif" width="10" height="11" class="ico-indent" alt="">
+					
+					<img src="https://cafe.pstatic.net/cafe4/hidden.gif" width="10" height="11" class="ico-list" alt="">
+					
+						
+							<a href="/ArticleList.nhn?search.clubid=29798500&search.menuid=30&search.boardtype=L"  onclick="goMenu('30');clickcr(this, 'mnu.normal','','',event);" class="gm-tcol-c " id="menuLink30">
+								주식투자Q&A
+							</a>
+						
+						
+					
+					
+						
+							
+							<img src="https://ssl.pstatic.net/static/cafe/cafe_pc/ico_new.png" width="12" height="12" class="ico_new" alt="새 게시글"><script type="text/javascript">showGroupNewImage("groupnewimg78");</script>
+						
+						
+					
+				</li>
+			
+			
+			
+			
+				
+				
+
+				
+			
+				
+			
+
+			
+				
+			
+				
+			
+				
+			
+			
+				
+			
+				
+				
+				<li>
+					
+						<img src="https://cafe.pstatic.net/cafe4/hidden.gif" width="10" height="11" class="ico-indent" alt="">
+					
+					<img src="https://cafe.pstatic.net/cafe4/hidden.gif" width="10" height="11" class="ico-list" alt="">
+					
+						
+							<a href="/ArticleList.nhn?search.clubid=29798500&search.menuid=115&search.boardtype=L"  onclick="goMenu('115');clickcr(this, 'mnu.normal','','',event);" class="gm-tcol-c " id="menuLink115">
+								조건검색식/수식자료
+							</a>
+						
+						
+					
+					
+						
+							
+							<img src="https://ssl.pstatic.net/static/cafe/cafe_pc/ico_new.png" width="12" heigh
+
+--- snippet around ArticleList @ 54766 ---
+Bgr_K-MOH72bNB10GN1h7KOE36m_RshlLkg.PNG/%EC%A0%9C%EB%AA%A9%EC%9D%84-%EC%9E%85%EB%A0%A5%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94_-001_%284%29.png" alt="나는주식트레이더다 (대한민국 TOP 주식 트레이더들의 커뮤니티)" onload="resizeTopSkin(this)" class="png24" >
+  				</a>
+  			</div>
+  		
+  	
+  </div>
+
+
+			
+		
+			
+			
+				
+
+
+
+
+
+<div id="special-menu">
+	<div class="box-special-menu">
+		<ul class="special-menu" id="special-menu-item">
+			
+				<li id="special-menu-0">
+					
+						
+							<a class="link_special" href="/ArticleList.nhn?search.clubid=29798500&search.boardtype=L" onclick="goMenu(0);" id="special-menuLink-0">전체글보기</a>
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+					
+				</li>
+			
+				<li id="special-menu-45">
+					
+						
+						
+						
+						
+						
+						
+						
+						
+						
+							<a class="link_special" href="/ArticleList.nhn?search.clubid=29798500&search.menuid=45&search.boardtype=L" onclick="goMenu(45);" id="special-menuLink-45" title="공지사항">공지사항</a>
+						
+						
+					
+				</li>
+			
+				<li id="special-menu--2">
+					
+						
+						
+						
+						
+						
+							<a class="link_special" href="/ArticleList.nhn?search.clubid=29798500&amp;search.boardtype=I&amp;search.specialmenutype=P" onclick="goMenu(-2);" id="special-menuLink--2">이미지모아보기</a>
+						
+						
+						
+						
+						
+						
+					
+				</li>
+			
+				<li id="special-menu--3">
+					
+						
+						
+						
+						
+						
+						
+							<a class="link_sp
+
+--- snippet around menuLink @ 54858 ---
+%B4%EC%A3%BC%EC%84%B8%EC%9A%94_-001_%284%29.png" alt="나는주식트레이더다 (대한민국 TOP 주식 트레이더들의 커뮤니티)" onload="resizeTopSkin(this)" class="png24" >
+  				</a>
+  			</div>
+  		
+  	
+  </div>
+
+
+			
+		
+			
+			
+				
+
+
+
+
+
+<div id="special-menu">
+	<div class="box-special-menu">
+		<ul class="special-menu" id="special-menu-item">
+			
+				<li id="special-menu-0">
+					
+						
+							<a class="link_special" href="/ArticleList.nhn?search.clubid=29798500&search.boardtype=L" onclick="goMenu(0);" id="special-menuLink-0">전체글보기</a>
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+					
+				</li>
+			
+				<li id="special-menu-45">
+					
+						
+						
+						
+						
+						
+						
+						
+						
+						
+							<a class="link_special" href="/ArticleList.nhn?search.clubid=29798500&search.menuid=45&search.boardtype=L" onclick="goMenu(45);" id="special-menuLink-45" title="공지사항">공지사항</a>
+						
+						
+					
+				</li>
+			
+				<li id="special-menu--2">
+					
+						
+						
+						
+						
+						
+							<a class="link_special" href="/ArticleList.nhn?search.clubid=29798500&amp;search.boardtype=I&amp;search.specialmenutype=P" onclick="goMenu(-2);" id="special-menuLink--2">이미지모아보기</a>
+						
+						
+						
+						
+						
+						
+					
+				</li>
+			
+				<li id="special-menu--3">
+					
+						
+						
+						
+						
+						
+						
+							<a class="link_special" href="/ArticleList.nhn?search.clubid=29798500&amp;search.boardtype=M&amp;search.speci
+
+--- HTML head sample ---
+
+<!DOCTYPE html>
+
+<html lang="ko">
+<head>
+<meta name="robots" content="noindex, nofollow" />
+<meta http-equiv="Content-Type" content="text/html;charset=KSC5601">
+<meta http-equiv="X-UA-Compatible" content="requiresActiveX=true">
+<title>나는주식트레이더다 (대한민국 TOP 주식 트레이더들의 커뮤니티) : 네이버 카페</title>
+
+
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?2" />
+<meta name="referrer" content="always" />
+
+<link rel="stylesheet" href="/static/css/main/css/line_sticker-1644284985000-9453.css" type="text/css">
+
+<link rel="stylesheet" href="/static/css/main/css/comment-1644284985000-17199.css" type="text/css">
+
+<link rel="stylesheet" href="/static/css/main/css/map/cafe_map-1644284985000-14563.css" type="text/css">
+
+
+
+    
+    
+        
+    
+
+<style id="cafeCss" type="text/css">
+</style>
+<link rel="stylesheet" href="/static/css/main/css/wide/1080_cafe-1778561539000-234261.css" type="text/css">
+
+<link rel="stylesheet" href="/static/css/main/css/wide/1080_skin_pink-1644284985000-22257.css" type="text/css">
+
+
+
+
+
+ <script>
+var g_sUserId = "";
+var g_sUserMemberKey = ""
+var g_sGroupId = "false";
+var g_sCafeHome = "https://cafe.naver.com/" + "stocktraining";
+var g_sClubId = "29798500";
+var g_mobileWebLink = "https://m.cafe.naver.com/stocktraining";
+
+var g_sCafeThumbUrl = 'https://cafethumb.pstatic.net';
+var g_sUpcafeUrl = 'https://up.cafe.naver.com';
+var g_sCafeUrl = "https://cafe.naver.com";
+var g_sCafeUrlOnly = "stocktraining";
+var g_sCafeImgUrl = 'https://cafe.pstatic.net';
+var g_sCafeFileUrl = 'https://cafefiles.pstatic.net';
+var g_sLoginUrl = "http://nid.naver.com";
+var g_sNidHttps = 'https://nid.naver.com';
+var g_sCafeSectionUrl = "https://section.cafe.naver.com";
+var g_sNdriveHttps = "https://mybox.naver.com";
+var g_sKin = "http://kin.naver.com";
+var g_sLogOutReturnUrl = "https://nid.naver.com/nidlogin.login?mode=form&svctype=40960&id=&url=https://cafe.naver.com/LoginCheck.nhn?m=login";
+var g_sCafeTalk = 'https://talk.cafe.naver.com';
+var g_sCafeTalkApiGw = 'https://apis.naver.com/cafe-web/cafe-talk';
+var g_sGfmarketDomain = 'https://m.gfmarket.naver.com';
+var g_sGfmarketThumbnailDomain = 'https://storep-phinf.pstatic.net';
+var g_sPhotoInfraUploadDomain = 'cafe.upphoto.naver.com';
+var g_sPhotoInfraUploaderDomain = window.location.protocol === 'https:' ? 'https://cafe.upphoto.naver.com' : 'http://cafe.upphoto.naver.com';
+var g_sDThumbUrl = 'https://dthumb-phinf.pstatic.net/?src=';
+var g_sNaverStatUiUrl = 'https://cafe.stat.naver.com/cafe';
+var g_sBAStatDomain = 'https://scv-cafe.io.naver.com';
+var g_sApigwUrl = 'https://apis.naver.com';
+var g_sCafeHomePcUrl = 'https://section.cafe.naver.com';
+var g_sCalendar = 'https://calendar.naver.com';
+
+var g_sNicknameRegex = /([a-zA-Z0-9ㄱ-힣\_\s]+)/gi;
+var g_mainIframeWidth = '860';
+</script>
+
+<script type="text/javascript" src="/static/js/mycafe/javascript/jindo.all-1663739945000-91036.js"></script>
+
+<script type="text/javascript" src="/static/js/mycafe/javascript/cssquery-1644284985000-18676.js"></script>
+
+<script type="text/javascript" src="/static/js/mycafe/javascript/jindo/common_util-1644284985000-4535.js"></script>
+
+<script type="text/javascript" src="/static/js/mycafe/javascript/widget-1644284985000-2800.js"></script>
+
+<script type="text/javascript" src="/static/js/mycafe/javascript/cafe_common_wide-1732525821000-25618.js"></script>
+
+<script type="text/javascript" src="/static/js/mycafe/javascript/cafe_crossdomain_message-1644284985000-4425.js"></script>
+
+<script type="text/javascript" src="/static/js/mycafe/javascript/cafe_eventutil-1644284985000-2096.js"></script>
+
+<script type="text/javascript" src="/static/js/mycafe/javascript/autosourcing-1644284985000-8747.js"></script>
+
+<script type="text/javascript" src="/static/js/mycafe/javascript/AjaxRequest-1644284985000-16024.js"></script>
+
+<script type="text/javascript" src="/static/js/mycafe/javascript/click/clickcr-1744362621000-20272.js"></script>
+
+<script type="text/javascript" src="/static/js/mycafe/javascript/lcslog-1644284985000-26709.js"></script>
+
+<script type="text/javascript" src="/static/js/mycafe/javascript/tablet/TabletHandler-1644284985000-2403.js" charset="utf-8"></script>
+
+<script type="text/javascript" src="/static/js/mycafe/javascript/lib/skipNavigationWebkit-1644284985000-907.js" charset="utf-8"></script>
+
+<script type="text/javascript" src="/static/js/mycafe/javascript/editor/MainLocalStorage-1713398471000-1920.js" charset="utf-8"></script>
+
+<script type="text/javascript" src="/static/js/mycafe/javascript/IframeHandler-1644284985000-2279.js" charset="utf-8"></script>
+
+<script type="text/javascript" src="/static/js/mycafe/javascript/PowerCafeNoticeLayer-1644284985000-1880.js" charset="utf-8"></script>
+
+<script type="text/javascript" src="/static/js/mycafe/javascript/TownCafeSelectLayer-1644284985000-1461.js" charset="utf-8"></script>
+
+<script type="text/javascript" src="/static/js/mycafe/javascript/lib/da/ActiveViewPC-1644284985000-8868.js" charset="utf-8"></script>
+
+<script type="text/javascript">
+    var nsc = g_ssc = "cafe.mycafe";
+	var oCL = new Ju.controlLayer(); // Ju.controlLayer() 클래스를 oCL 전역 변수에 할당함
+	var LH = new LH_create();
+	window.onload = LH_exec;
+
+	if (false==true) {
+		blockMouseRight();
+	}
+//--------------- Mac Safari bug --------------------------
+function controlTagClickEvent(e){
+	if(!!$Agent() && $Agent().macSafari ){
+	 	var controlTagName = ["a"];
+	 	var elTarget = e.element,
+	 		sTargetUrl = null;
+	 	if(elTarget != null ){
+	 		if(elTarget.tagName.toLowerCase() == "a" && elTarget.href+"" != document.location.href+"#"){
+	 			elTarget.target="_top";
+	 		}
+	 		return ;
+	 	}
+	}
+}
+
+(function() {
+	if(!!$Agent() && $Agent().macSafari ){
+		Event.register(window, "load", function() {
+			if($('main-area') != null){
+				Event.register($('main-area'), 'click', this.controlTagClickEvent.bindForEvent(this));
+			}
+		});
+	}
+})();
+//--------------- Mac Safari bug End --------------------------
+</script>
+
+
+
+<meta name="decorator" content="mycafe_main_for_wide" />
+<meta http-equiv="Content-Type" content="text/html;charset=euc-kr">
+<script type="text/javascript">
+
+</script>
+
+<script type="text/javascript">
+	LH.add("parentResizeIframe('cafe_main')");
+</script>
+
+
+
+
+
+
+<script type="text/javascript" async src="https://ssl.pstatic.net/tveta/libs/glad/prod/gfp-core.js"></script>
+<script>
+	
+	var unitId = "pc_cafe_wrt";
+	
+	var divId = "floatingda_content";
+
+    
+    window.gladsdk = window.gladsdk || { cmd: [] };
+    window.gladsdk.cmd.push(function () {
+        
+        window.gladsdk.setGlobalConfig({
+            enablePersistAd: true,
+        });
+
+        window.gladsdk.defineAdSlot({
+            adUnitId: unitId, // 매체용으로 발급된 광고 유닛 ID
+            adSlotElementId: divId, // 광고 노출 영역(HTML Element)의 id
+        });
+    });
+
+	
+	function showHappybeanFloatingBanner() {
+        window.gladsdk.cmd.push(function () {
+            var adSlot = window.gladsdk.findAdSlot(divId);
+            if (adSlot) {
+                window.gladsdk.displayAd(adSlot);
+            }
+        });
+	}
+
+	
+	function hideHappybeanFloatingBanner() {
+		document.getElementById(divId).innerHTML = ""
+	}
+</script>
+
+
+</head>
+<body class="">
+
+
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+
+<div id="u_skip">
+	<a href="#cafe-menu" onclick="var t=document.getElementById('cafe-menu');t.tabIndex=-1;t.focus();return false;" class="skip">게시판 목록 바로가기</a>
+	<a href="#main-area" onclick="var t=document.getElementById('main-area');t.tabIndex=-1;t.focus();return false;" class="skip">본문 바로가기</a>
+	<a id="u_skipToMobileweb" href="https://m.cafe.naver.com/stocktraining" class="skip">웹 접근성이 좋은 모바일 웹에서 사용하겠습니까?</a>
+</div>
+
+
+
+<h1 class="d-none">나는주식트레이더다 (대한민국 TOP 주식 트레이더들의 커뮤니티)</h1>
+
+
+<div id="cafe-body-skin">
+	<div id="cafe-body">
+		
+		
+		
+
+		
+		<div id="naver-gnb">
+			
+
+			
+				
+
+
+
+
+    <a href="http://www.naver.com" class="link_naver"><img src="https://ssl.pstatic.net/static/cafe/icon_naver_190423.png" width="52" height="10" alt="NAVER"></a>
+
+<div id="gnb-menu">
+    <p class="naver-h" id="naver-h">
+        <a href="https://section.cafe.naver.com">카페홈</a>
+        <img src="https://cafe.pstatic.net/cafe4/ico-blank.gif" width="1" height="10" alt="" class="tcol-c">
+    </p>
+    <div id="button_town_cafe" class="town-cafe">
+        <a href="https://cafe.naver.com/ca-fe/home/town" target="_blank">이웃</a>
+        <img src="https://cafe.pstatic.net/cafe4/ico-blank.gif" width="1" height="10" alt="" class="tcol-c">
+    </div>
+    <div id="button_join_cafe" class="join-cafe off">
+        <a href="#">가입카페</a>
+        <a href="#"><img id="joincafeimg" src="https://cafe.pstatic.net/cafe4/hidden.gif" width="13" height="13" alt="가입카페" class="btn-join down-gnb"></a>
+        <img src="https://cafe.pstatic.net/cafe4/ico-blank.gif" width="1" height="10" alt="" class="tcol-c">
+    </div>
+    <div id="button_mynews_alarm" class="chatting-cafe">
+        <a href="#" class="link_chatting">새글</a>
+        <img src="https://cafe.pstatic.net/cafe4/ico-blank.gif" width="1" height="10" alt="" class="tcol-c">
+    </div>
+    <div id="button_mynews_activity" class="chatting-cafe mynews-cafe off">
+        <a href="#" class="link_chatting">내소식</a>
+        <img src="https://cafe.pstatic.net/cafe4/ico-blank.gif" width="1" height="10" alt="" class="tcol-c">
+    </div>
+    <div id="layer_mynews_activity" class="cc_layer_mynews" style="display: none">
+        <div class="cc_mynews_header">
+            <h2 class="title">내소식</h2>
+        </div>
+
+        <div class="cc_mynews_content">
+            <div class="cc_mynews_none" style="display: none">
+                <strong class="title">내소식이 없습니다.</strong>
+                <p class="txt">가입한 카페의 활동 알림과 댓글알림을<br>이곳에서 모아볼 수 있어요.</p>
+            </div>
+
+            <div class="cc_mynews_area" style="display: none">
+                <span class="blind">최근 30일 이내의 최신순 소식입니다.</span>
+                <ul class="cc_mynews_list ">
+                    <li id="_mynews_notice_tooltip">
+                        <div class="cc_mynews_notice">
+                            <p class="notice_txt">
+                                알림의 <span class="icon_option"></span> 버튼을 클릭하면, 알림을 설정할 수 있어요.
+                            </p>
+                            <!-- [D] .btn_close 클릭 시 공지 레이어는 미노출되게 해주세요~ -->
+                            <button id="_btn_hide_mynews_notice" type="button" class="btn_close"><span class="blind">공지 닫기</span></button>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="cc_layer_alert" style="display:none;">
+        <strong class="blind">내소식 안내 레이어팝업</strong>
+        <div class="cc_alert_content">
+            <p class="txt"></p>
+        </div>
+        <div class="cc_alert_footer">
+            <button type="submit" class="cc_alert_btn">확인</button>
+        </div>
+    </div>
+
+    <div class="chatting-cafe">
+        <a href="#" class="link_chatting" onclick="openCafeTalk();return false;">채팅</a>
+        <img src="https://cafe.pstatic.net/cafe4/ico-blank.gif" width="1" height="10" alt="" class="tcol-c">
+    </div>
+    <!-- GNB 템플릿 적용부 -->
+    <div id="gnb">
+    	
+        <script type="text/javascript" src="https://ssl.pstatic.net/static.gn/templates/gnb_utf8.nhn?1768372000000" charset="utf-8"></script>
+
+    </div>
+    <!--//GNB 템플릿 적용부 -->
+
+    
+    
+        <div id="layer_login" style="display:none;">
+            <p><a href="#" onclick="toLoginPage()">로그인해주세요</a></p>
+        </div>
+    
+    <iframe id="join-cafe-iframe" title="가입카페목록" width="280" frameborder="0" scrolling="no" style="overflow:hidden;display:none;"></iframe>
+</div>
+
+
+<div id="cafeappInstallIntroLayer" style="display:none;position:absolute;border:1px solid #969696;background:#fff;top:25px;left:676px">
+  <div style="width:252px;padding:13px 13px 10px;text-align:center">
+    <p style="font-size:12px;line-height:16px;color:#333"><strong><span style="color:#2cae0c">네이버앱 알림</span>으로 <br>카페앱 설치 경로를 전송했습니다.</strong></p>
+    <p style="padding:4px 0 7px;font-size:11px;line-height:16px;color:#999;letter-spacing:-1px">네이버앱이 최신버전이 아니거나, <br>로그아웃 상태여서 알림을 못 받으셨다면 <br>문자 전송으로 카페앱을 설치하실 수도 있습니다.</p>
+    <div style="padding-top:10px;border-top:1px solid #eeeeec;text-align:center">
+      <a href="#" id="cafeappInstallIntroLayerSmsBtn" style="display:inline-block;overflow:hidden;width:116px;height:23px;margin-right:2px;background:url(https://cafe.pstatic.net/img/section/ly_cafeapp_dnld_140331.png) no-repeat 0 -34px;line-height:100px;vertical-align:top">카페앱 설치 문자 전송</a>
+      <a href="#" id="cafeappInstallIntroLayerCloseBtn" style="display:inline-block;overflow:hidden;width:35px;height:23px;background:url(https://cafe.pstatic.net/img/section/ly_cafeapp_dnld_140331.png) no-repeat 0 -60px;line-height:100px;vertical-align:top">확인</a>
+    </div>
+  </div>
+  <a href="#" id="cafeappInstallIntroLayerCloseXBtn" style="display:inline-block;overflow:hidden;position:absolute;top:0;right:0;width:30px;height:30px;background:url(https://cafe.pstatic.net/img/section/ly_cafeapp_dnld_140331.png) no-repeat -136px -34px;line-height:100px;vertical-align:top" role="button">레이어 닫기</a>
+</div>
+<script type="text/javascript">
+var cafeappInstallIntroLayer = {
+    init : function(pUserLoggedIn) {
+        this.cafeappInstallIntroLayer = $('cafeappInstallIntroLayer');
+        this.cafeappInstallIntroLayerSmsBtn = $('cafeappInstallIntroLayerSmsBtn');
+        this.cafeappInstallIntroLayerCloseBtn = $('cafeappInstallIntroLayerCloseBtn');
+        this.cafeappInstallIntroLayerCloseXBtn = $('cafeappInstallIntroLayerCloseXBtn');
+        this.userloggedIn = pUserLoggedIn;
+        this.bindEvent();
+    },
+    bindEvent : function() {
+        Event.register(this.cafeappInstallIntroLayerSmsBtn, 'click', this.popupSms.bindForEvent(this));
+        Event.register(this.cafeappInstallIntroLayerCloseBtn, 'click', this.hideLayer.bindForEvent(this));
+        Event.register(this.cafeappInstallIntroLayerCloseXBtn, 'click', this.hideLayer.bindForEvent(this));
+    },    
+    hideLayer : function(we) {
+        oCL.hide(this.cafeappInstallIntroLayer);
+        we.stop();
+    },    
+    popupSms : function(we) {
+    	openPopupSendURL();
+        oCL.hide(this.cafeappInstallIntroLayer);
+        we.stop();
+    },
+    showLayer : function(event, nTop, nLeft) {
+    	
+    	if(!this.userloggedIn) {
+    		popupLoginPage(document.location);
+    		return;
+    	}
+    	var oAjax = new Ajax('/CafeAppInstallPushAlim.nhn', {method : "POST"});
+    	oCL.show(this.cafeappInstallIntroLayer, event, nTop, nLeft);
+    	if(event != null) {
+    		Event.ready(event).stop();	
+    	}
+    }
+};
+cafeappInstallIntroLayer.init(false);
+</script>
+
+
+
+<script type="text/javascript">
+    var MyNewsActivityList = {
+        init: function () {
+            this.elMyNewsList = document.querySelector(".cc_mynews_list");
+            this.elMyNewsContent = document.querySelector(".cc_mynews_content");
+            this.elMyNewsArea = document.querySelector(".cc_mynews_area");
+            this.elMyNewsAreaNone = document.querySelector(".cc_mynews_none");
+
+            this.elMessageBox = document.querySelector(".cc_layer_alert");
+            this.elMessageBoxButton = document.querySelector(".cc_alert_btn");
+
+            this.elNewsNoticeTooltip = this._fetchNewsNoticeTooltipElement();
+
+            this.processingScrollEvent;
+            this.lastMouseOverElement;
+
+            this.bHasNewsMessage = false;
+
+            /*
+            공지알림의  버튼을 클릭하면 그 카페의 공지알림을 끌 수 있어요.
+            위의 문구는 default로 출력되기 때문에,
+            해당 데이터 외 다른 데이터가 없다면, 데이터가 아무것도 없다는 뜻 이다.
+             */
+            this.NO_MORE_MESSAGE = 1;
+
+            this._attachEvent();
+        },
+
+        _fetchNewsNoticeTooltipElement: function () {
+            return document.querySelector("#_mynews_notice_tooltip");
+        },
+
+        _attachEvent: function () {
+            Event.register(this.elMyNewsContent, "scroll", this._onScroll.bindForEvent(this));
+            Event.register(this.elMyNewsList, "click", this._onClickHideNoticeTooltip.bindForEvent(this, "#_btn_hide_mynews_notice"));
+            Event.register(this.elMyNewsList, "click", this._onClickMynewsOption.bindForEvent(this, ".cc_mynews_option_btn"));
+            Event.register(this.elMyNewsList, "click", this._onClickMessage.bindForEvent(this, ".cc_mynews_item"));
+            Event.register(this.elMyNewsList, "click", this._onClickCafeNoticeOff.bindForEvent(this, ".cc_mynews_option_layer"));
+            Event.register(this.elMyNewsList, "click", this._onClickCommentNotiSetting.bindForEvent(this, ".cc_mynews_option_layer"));
+            Event.register(this.elMyNewsList, "click", this._onClickRemoveNoti.bindForEvent(this, ".cc_mynews_option_layer"));
+            Event.register(this.elMyNewsList, "click", this._onClickCafeInviteReject.bindForEvent(this, ".cc_mynews_option_layer"));
+
+            Event.register(this.elMyNewsList, "mouseover", this._onMouseLeaveMessage.bindForEvent(this, "li"));
+            Event.register(this.elMyNewsList, "mouseover", this._onMouseEnterMessage.bindForEvent(this, "li"));
+            Event.register(this.elMyNewsList, "mouseleave", this._onMouseLeaveAllMessage.bindForEvent(this, "li"));
+
+            Event.register(this.elMessageBoxButton, "click", this._onClickMessageBoxButton.bindForEvent(this));
+
+        },
+        _onScroll: function (e) {
+            if (!this.processingScrollEvent && this._isScrollBottom(e)) {
+
+                var elMessageList = this.elMyNewsList.querySelectorAll("li");
+                var nLastMessageKey = elMessageList[elMessageList.length - 1].getAttribute("data-messageKey");
+
+                this.requestMyNewsList(nLastMessageKey);
+            }
+        },
+
+        _isScrollBottom: function (e) {
+            return e.target.offsetHeight + e.target.scrollTop >= e.target.scrollHeight;
+        },
+
+        _onClickHideNoticeTooltip: function (e, selector) {
+            var target = this._findParentBySelector(e.target, selector);
+            if (!target) {
+                return;
+            }
+
+            oMainLocalStorage.setLocalStorage(oMainLocalStorage.PC_HIDE_MYNEWS_TOOLTIP, "Y");
+            this._toggleNewsNoticeTooltip(false);
+        },
+
+        _onClickMynewsOption: function (e, selector) {
+            var target = this._findParentBySelector(e.target, selector);
+            if (!target) {
+                return;
+            }
+
+            e.target.parentElement.querySelector(".cc_mynews_option_layer").style.display = "block";
+        },
+
+        _onClickMessage: function (e, selector) {
+            var target = this._findParentBySelector(e.target, selector);
+            if (!target) {
+                return;
+            }
+
+            var sMessageKey = target.parentNode.getAttribute("data-messageKey");
+            var sCategoryId = target.parentNode.getAttribute("data-categoryId");
+            this.requestMyNewsConfirm(sMessageKey, sCategoryId);
+
+            var category = target.parentNode.getAttribute("data-category");
+            var cafeId = target.parentNode.getAttribute("data-cafeId");
+            var articleId = target.parentNode.getAttribute("data-articleId");
+
+            this.sendClickNewsActivity({
+                category: category,
+                cafe_id: cafeId,
+                article_id: articleId
+            });
+            if (target.getAttribute("data-message")) {
+                this._appearMessageBox(target.getAttribute("data-message"));
+            } else {
+                location.href = target.getAttribute("data-url");
+            }
+        },
+
+        _onMouseEnterMessage: function (e, selector) {
+            var target = this._findParentBySelector(e.target, selector);
+            if (!target || this.lastMouseOverElement == target) {
+                return;
+            }
+
+            if (target && target.id == "_btn_hide_mynews_notice") {
+                return;
+            }
+
+          

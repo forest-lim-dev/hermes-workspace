@@ -251,3 +251,9 @@
 - [processed] YT-05 Ross Cameron - Warrior Trading — Prediction Markets Catalyst Sends Stock Up Over 100% — `strategies/daytrading/069_new-high-breakout-daily-level-catalyst-curl-pullback-scalp.md`
 - [raw] YouTube transcripts saved — `data/raw_transcripts/youtube/hrZJKJ9NGbk.txt`, `data/raw_transcripts/youtube/POMf8yNOhk4.txt`, `data/raw_transcripts/youtube/CVBv8tPpyxA.txt`
 - [raw-deferred] Ross Cameron 후보 원문 저장 — `data/raw_transcripts/youtube/1g4FOzXvlpw.txt`, `data/raw_transcripts/youtube/T_EgRZO3IkM.txt`, `data/raw_transcripts/youtube/cnoJ9DkWPVM.txt`
+
+### 2026-05-16 배치 처리
+- [processed] YT-05 Ross Cameron - Warrior Trading — Today Was An Exercise in Discipline... — `strategies/daytrading/070_pullback-vwap-reclaim-subpar-catalyst-no-trade-filter.md`
+- [processed] YT-05 Ross Cameron - Warrior Trading — Day Trading Watch List for MONDAY! — `strategies/daytrading/071_new-high-breakout-scanner-attention-first-pullback.md`
+- [processed-non-strategy] YT-05 Ross Cameron - Warrior Trading — Big PDT Rule Change and What it Means for You — `research/non_strategy/pdt-rule-smallcap-liquidity-regime-overlay.md`
+- [raw-reused] YouTube transcripts from 2026-05-15 — `data/raw_transcripts/youtube/1g4FOzXvlpw.txt`, `data/raw_transcripts/youtube/T_EgRZO3IkM.txt`, `data/raw_transcripts/youtube/cnoJ9DkWPVM.txt`
