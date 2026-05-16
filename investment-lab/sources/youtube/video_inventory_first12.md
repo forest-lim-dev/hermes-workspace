@@ -257,3 +257,10 @@
 - [processed] YT-05 Ross Cameron - Warrior Trading — Day Trading Watch List for MONDAY! — `strategies/daytrading/071_new-high-breakout-scanner-attention-first-pullback.md`
 - [processed-non-strategy] YT-05 Ross Cameron - Warrior Trading — Big PDT Rule Change and What it Means for You — `research/non_strategy/pdt-rule-smallcap-liquidity-regime-overlay.md`
 - [raw-reused] YouTube transcripts from 2026-05-15 — `data/raw_transcripts/youtube/1g4FOzXvlpw.txt`, `data/raw_transcripts/youtube/T_EgRZO3IkM.txt`, `data/raw_transcripts/youtube/cnoJ9DkWPVM.txt`
+
+### 2026-05-17 배치 처리
+- [processed] YT-01 대왕개미 홍인기 — How to Identify Leading Stocks for Day Trading at a Glance — `strategies/daytrading/072_new-high-breakout-theme-leader-dplus-pullback.md`
+- [processed] YT-01 대왕개미 홍인기 — Comprehensive Summary of Trading Strategies for Korean Stocks by Trading Hour — `strategies/daytrading/073_pullback-domestic-session-dplus-time-filter.md`
+- [processed] YT-03 차트슈타인 — A super easy day trading method that only you do not know about — `strategies/daytrading/074_new-high-breakout-atr-supertrend-volatility-expansion.md`
+- [raw] YouTube transcripts saved — `data/raw_transcripts/youtube/CW0WtNaXYEU.txt`, `data/raw_transcripts/youtube/iRrAHIvU-Ng.txt`, `data/raw_transcripts/youtube/uVNzYNiPrUE.txt`
+- [raw-deferred] 추가 신규 원문 저장 — `data/raw_transcripts/youtube/K2vuUC2B4JQ.txt`, `data/raw_transcripts/youtube/b3sJIWOO4Z4.txt`, `data/raw_transcripts/youtube/xgBq0049KRQ.txt`, `data/raw_transcripts/youtube/JiwCBSTVb0E.txt`
